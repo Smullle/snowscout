@@ -4,9 +4,9 @@ from pydantic import BaseModel
 from typing import List, Optional
 import os
 from dotenv import load_dotenv
-from .models import UserInventory, SearchResult, Recommendation
-from .services.mercari import search_mercari
-from .services.recommendations import get_recommendations
+from models import UserInventory, SearchResult, Recommendation
+from services.mercari import search_mercari
+from services.recommendations import get_recommendations
 
 # Load environment variables
 load_dotenv()
