@@ -167,26 +167,21 @@ def parse_markdown(file_path):
         # Remove parenthetical info like "(Skiing & Snowboarding)"
         clean_name = re.sub(r'\s*\(.*\)', '', category_name).strip()
         
-        # Handle "HELMETS" vs "Helmets"
+        # Normalize to title case for consistent metadata lookup
         clean_name_title = clean_name.title()
         if clean_name_title == "Neck Gaiter/Balaclava": # Normalize
              clean_name_title = "Neck Gaiters/Balaclavas"
         
-        # Map to metadata key
-        meta_key = clean_name
+        # Use title case for metadata lookup
+        meta_key = clean_name_title
         if meta_key not in CATEGORY_METADATA:
-             # Try title case
-             meta_key = clean_name.title()
-             if meta_key == "Neck Gaiter/Balaclava": meta_key = "Neck Gaiters/Balaclavas"
-
-        if meta_key not in CATEGORY_METADATA:
-            print(f"Warning: No metadata found for category '{category_name}' (key: {meta_key})")
+            print(f"Warning: No metadata found for category '{category_name}' (normalized: {meta_key})")
             continue
             
         metadata = CATEGORY_METADATA[meta_key]
         category_data = {
             "id": metadata["id"],
-            "name": clean_name,
+            "name": clean_name_title,  # Use normalized title case name
             "sportCompatibility": metadata["sportCompatibility"],
             "essentialFor": metadata["essentialFor"],
             "essentialRating": metadata["essentialRating"],
@@ -199,7 +194,10 @@ def parse_markdown(file_path):
         # Look for ### Budget ($X-$Y) or | Budget ($X-$Y) ... |
         
         # Check if it's a table format (Japan guide) or list format (Global guide)
-        is_table = '|' in section_content and '---' in section_content
+        # Table format has lines that start with | and contain table separator |---|
+        has_table_rows = any(line.strip().startswith('|') for line in section_content.split('\n'))
+        has_table_separator = '|---' in section_content or '| ---' in section_content
+        is_table = has_table_rows and has_table_separator
         
         if is_table:
             parse_table_format(section_content, category_data)

@@ -4,29 +4,309 @@
 export const gearCategories = [
     {
         "id": "helmets",
-        "name": "HELMETS",
+        "name": "Helmets",
         "sportCompatibility": [
             "Skiing",
             "Snowboarding"
         ],
         "essentialFor": "Safety and head protection",
         "essentialRating": 10,
-        "priceRanges": {}
+        "priceRanges": {
+            "budget": {
+                "range": "$60-$100",
+                "items": [
+                    {
+                        "name": "Giro Ledge MIPS",
+                        "price": "$73"
+                    },
+                    {
+                        "name": "Smith Rodeo (non-MIPS)",
+                        "price": "$57"
+                    },
+                    {
+                        "name": "Bolle Eco Ryft",
+                        "price": "$80"
+                    },
+                    {
+                        "name": "Basic certified helmets",
+                        "price": "$60-80"
+                    },
+                    {
+                        "name": "Bern Watts",
+                        "price": "$85"
+                    },
+                    {
+                        "name": "Giro Nine",
+                        "price": "$75"
+                    },
+                    {
+                        "name": "Smith Maze",
+                        "price": "$90"
+                    },
+                    {
+                        "name": "Anon Raider",
+                        "price": "$70"
+                    },
+                    {
+                        "name": "POC Fornix",
+                        "price": "$95"
+                    },
+                    {
+                        "name": "Salomon Brigade",
+                        "price": "$88"
+                    }
+                ]
+            },
+            "midRange": {
+                "range": "$100-$180",
+                "items": [
+                    {
+                        "name": "Giro Ratio MIPS",
+                        "price": "$120"
+                    },
+                    {
+                        "name": "POC Obex MIPS",
+                        "price": "$100"
+                    },
+                    {
+                        "name": "Smith Rodeo MIPS",
+                        "price": "$95"
+                    },
+                    {
+                        "name": "NANDN NT-Series MIPS",
+                        "price": "$130"
+                    },
+                    {
+                        "name": "Pret Lyric X2",
+                        "price": "$160"
+                    },
+                    {
+                        "name": "Smith Method MIPS",
+                        "price": "$140"
+                    },
+                    {
+                        "name": "Atomic Four Amid Pro",
+                        "price": "$180"
+                    },
+                    {
+                        "name": "Bern Watts 2.0 MIPS",
+                        "price": "$170"
+                    },
+                    {
+                        "name": "Anon Prime MIPS",
+                        "price": "$150"
+                    },
+                    {
+                        "name": "Salomon Ranger\u00b2",
+                        "price": "$145"
+                    }
+                ]
+            },
+            "highEnd": {
+                "range": "$180-$450+",
+                "items": [
+                    {
+                        "name": "Smith Vantage MIPS",
+                        "price": "$270"
+                    },
+                    {
+                        "name": "Anon Merak WaveCell",
+                        "price": "$320"
+                    },
+                    {
+                        "name": "Oakley Mod5 MIPS",
+                        "price": "$270"
+                    },
+                    {
+                        "name": "Pret Cirque X MIPS",
+                        "price": "$270"
+                    },
+                    {
+                        "name": "Sweet Protection Switcher",
+                        "price": "$270"
+                    },
+                    {
+                        "name": "Giro Owen Spherical",
+                        "price": "$240"
+                    },
+                    {
+                        "name": "POC Obex BC MIPS",
+                        "price": "$270"
+                    },
+                    {
+                        "name": "Salomon Driver Prime Sigma",
+                        "price": "$450"
+                    },
+                    {
+                        "name": "Scott Symbol 2 Plus",
+                        "price": "$200"
+                    },
+                    {
+                        "name": "Atomic Savor AMID",
+                        "price": "$230"
+                    },
+                    {
+                        "name": "---",
+                        "price": "See range"
+                    }
+                ]
+            }
+        }
     },
     {
         "id": "goggles",
-        "name": "GOGGLES",
+        "name": "Goggles",
         "sportCompatibility": [
             "Skiing",
             "Snowboarding"
         ],
         "essentialFor": "Vision protection and clarity",
         "essentialRating": 10,
-        "priceRanges": {}
+        "priceRanges": {
+            "budget": {
+                "range": "$40-$100",
+                "items": [
+                    {
+                        "name": "Smith Squad",
+                        "price": "$80"
+                    },
+                    {
+                        "name": "Giro Cruz",
+                        "price": "$60"
+                    },
+                    {
+                        "name": "Anon Helix",
+                        "price": "$70"
+                    },
+                    {
+                        "name": "Oakley O Frame 2.0",
+                        "price": "$75"
+                    },
+                    {
+                        "name": "Dragon NFX2",
+                        "price": "$95"
+                    },
+                    {
+                        "name": "Scott Unlimited II OTG",
+                        "price": "$85"
+                    },
+                    {
+                        "name": "Uvex Downhill 2000",
+                        "price": "$90"
+                    },
+                    {
+                        "name": "Bolle Mojo",
+                        "price": "$65"
+                    },
+                    {
+                        "name": "Electric Kleveland",
+                        "price": "$100"
+                    },
+                    {
+                        "name": "Spy Foundation",
+                        "price": "$75"
+                    }
+                ]
+            },
+            "midRange": {
+                "range": "$100-$200",
+                "items": [
+                    {
+                        "name": "Smith I/O MAG",
+                        "price": "$180"
+                    },
+                    {
+                        "name": "Oakley Flight Deck",
+                        "price": "$160"
+                    },
+                    {
+                        "name": "Anon M4 Toric",
+                        "price": "$190"
+                    },
+                    {
+                        "name": "Giro Contour RS",
+                        "price": "$150"
+                    },
+                    {
+                        "name": "POC Fovea Mid",
+                        "price": "$170"
+                    },
+                    {
+                        "name": "Dragon X2s",
+                        "price": "$180"
+                    },
+                    {
+                        "name": "Scott LCG Evo",
+                        "price": "$175"
+                    },
+                    {
+                        "name": "Spy Legacy",
+                        "price": "$165"
+                    },
+                    {
+                        "name": "Electric EG3",
+                        "price": "$170"
+                    },
+                    {
+                        "name": "Uvex Downhill 2100 S",
+                        "price": "$155"
+                    }
+                ]
+            },
+            "highEnd": {
+                "range": "$200-$400+",
+                "items": [
+                    {
+                        "name": "Smith I/O MAG XL ChromaPop",
+                        "price": "$300"
+                    },
+                    {
+                        "name": "Oakley Flight Deck XM Prizm",
+                        "price": "$240"
+                    },
+                    {
+                        "name": "Anon M5",
+                        "price": "$350"
+                    },
+                    {
+                        "name": "POC Zonula Race",
+                        "price": "$380"
+                    },
+                    {
+                        "name": "Giro Axis",
+                        "price": "$280"
+                    },
+                    {
+                        "name": "Dragon X2s Lumalens",
+                        "price": "$250"
+                    },
+                    {
+                        "name": "Scott Prospect",
+                        "price": "$320"
+                    },
+                    {
+                        "name": "Spy Legacy SE",
+                        "price": "$220"
+                    },
+                    {
+                        "name": "Electric EGX",
+                        "price": "$400"
+                    },
+                    {
+                        "name": "Oakley Flight Path L",
+                        "price": "$260"
+                    },
+                    {
+                        "name": "---",
+                        "price": "See range"
+                    }
+                ]
+            }
+        }
     },
     {
         "id": "ski-jackets",
-        "name": "SKI JACKETS",
+        "name": "Ski Jackets",
         "sportCompatibility": [
             "Skiing"
         ],
@@ -176,7 +456,7 @@ export const gearCategories = [
     },
     {
         "id": "snowboard-jackets",
-        "name": "SNOWBOARD JACKETS",
+        "name": "Snowboard Jackets",
         "sportCompatibility": [
             "Snowboarding"
         ],
@@ -326,7 +606,7 @@ export const gearCategories = [
     },
     {
         "id": "ski-pants",
-        "name": "SKI PANTS",
+        "name": "Ski Pants",
         "sportCompatibility": [
             "Skiing"
         ],
@@ -476,7 +756,7 @@ export const gearCategories = [
     },
     {
         "id": "snowboard-pants",
-        "name": "SNOWBOARD PANTS",
+        "name": "Snowboard Pants",
         "sportCompatibility": [
             "Snowboarding"
         ],
@@ -626,7 +906,7 @@ export const gearCategories = [
     },
     {
         "id": "skis",
-        "name": "SKIS",
+        "name": "Skis",
         "sportCompatibility": [
             "Skiing"
         ],
@@ -776,7 +1056,7 @@ export const gearCategories = [
     },
     {
         "id": "snowboards",
-        "name": "SNOWBOARDS",
+        "name": "Snowboards",
         "sportCompatibility": [
             "Snowboarding"
         ],
@@ -926,7 +1206,7 @@ export const gearCategories = [
     },
     {
         "id": "ski-boots",
-        "name": "SKI BOOTS",
+        "name": "Ski Boots",
         "sportCompatibility": [
             "Skiing"
         ],
@@ -1076,7 +1356,7 @@ export const gearCategories = [
     },
     {
         "id": "snowboard-boots",
-        "name": "SNOWBOARD BOOTS",
+        "name": "Snowboard Boots",
         "sportCompatibility": [
             "Snowboarding"
         ],
@@ -1226,7 +1506,7 @@ export const gearCategories = [
     },
     {
         "id": "ski-bindings",
-        "name": "SKI BINDINGS",
+        "name": "Ski Bindings",
         "sportCompatibility": [
             "Skiing"
         ],
@@ -1376,7 +1656,7 @@ export const gearCategories = [
     },
     {
         "id": "snowboard-bindings",
-        "name": "SNOWBOARD BINDINGS",
+        "name": "Snowboard Bindings",
         "sportCompatibility": [
             "Snowboarding"
         ],
@@ -1526,29 +1806,309 @@ export const gearCategories = [
     },
     {
         "id": "gloves",
-        "name": "GLOVES/MITTENS",
+        "name": "Gloves/Mittens",
         "sportCompatibility": [
             "Skiing",
             "Snowboarding"
         ],
         "essentialFor": "Hand warmth and protection",
         "essentialRating": 9,
-        "priceRanges": {}
+        "priceRanges": {
+            "budget": {
+                "range": "$30-$60",
+                "items": [
+                    {
+                        "name": "Outdoor Research Adrenaline",
+                        "price": "$40"
+                    },
+                    {
+                        "name": "Dakine Scout",
+                        "price": "$45"
+                    },
+                    {
+                        "name": "Burton Profile",
+                        "price": "$50"
+                    },
+                    {
+                        "name": "Hestra Army Leather",
+                        "price": "$55"
+                    },
+                    {
+                        "name": "Black Diamond Guide",
+                        "price": "$60"
+                    },
+                    {
+                        "name": "Mountain Hardwear Cloud Bank",
+                        "price": "$48"
+                    },
+                    {
+                        "name": "The North Face Montana",
+                        "price": "$50"
+                    },
+                    {
+                        "name": "Columbia Bugaboo",
+                        "price": "$35"
+                    },
+                    {
+                        "name": "Gordini Aquabloc",
+                        "price": "$45"
+                    },
+                    {
+                        "name": "Seirus Heatwave",
+                        "price": "$42"
+                    }
+                ]
+            },
+            "midRange": {
+                "range": "$60-$120",
+                "items": [
+                    {
+                        "name": "Hestra Fall Line",
+                        "price": "$90"
+                    },
+                    {
+                        "name": "Outdoor Research Stormtracker",
+                        "price": "$100"
+                    },
+                    {
+                        "name": "Black Diamond Guide Pro",
+                        "price": "$110"
+                    },
+                    {
+                        "name": "Dakine Titan",
+                        "price": "$85"
+                    },
+                    {
+                        "name": "Burton AK Tech",
+                        "price": "$120"
+                    },
+                    {
+                        "name": "Flylow Ridge",
+                        "price": "$95"
+                    },
+                    {
+                        "name": "Kinco 901 (modified)",
+                        "price": "$75"
+                    },
+                    {
+                        "name": "Mountain Hardwear FireFall/2",
+                        "price": "$110"
+                    },
+                    {
+                        "name": "POW Gloves Villain",
+                        "price": "$80"
+                    },
+                    {
+                        "name": "Seirus Innovation",
+                        "price": "$70"
+                    }
+                ]
+            },
+            "highEnd": {
+                "range": "$120-$250+",
+                "items": [
+                    {
+                        "name": "Hestra Army Leather Heli",
+                        "price": "$180"
+                    },
+                    {
+                        "name": "Black Diamond Guide Heated",
+                        "price": "$220"
+                    },
+                    {
+                        "name": "Arc'teryx Fission SV",
+                        "price": "$200"
+                    },
+                    {
+                        "name": "Outdoor Research Alti",
+                        "price": "$150"
+                    },
+                    {
+                        "name": "Hestra Heli 3-Finger",
+                        "price": "$180"
+                    },
+                    {
+                        "name": "Flylow Oven Mitt",
+                        "price": "$145"
+                    },
+                    {
+                        "name": "Kinco 901T with modifications",
+                        "price": "$130"
+                    },
+                    {
+                        "name": "POW Gloves Tanto",
+                        "price": "$160"
+                    },
+                    {
+                        "name": "Mountain Hardwear Absolute Zero",
+                        "price": "$250"
+                    },
+                    {
+                        "name": "Outdoor Research Lucent Heated",
+                        "price": "$230"
+                    },
+                    {
+                        "name": "---",
+                        "price": "See range"
+                    }
+                ]
+            }
+        }
     },
     {
         "id": "base-layers",
-        "name": "BASE LAYERS",
+        "name": "Base Layers",
         "sportCompatibility": [
             "Skiing",
             "Snowboarding"
         ],
         "essentialFor": "Moisture wicking and warmth",
         "essentialRating": 8,
-        "priceRanges": {}
+        "priceRanges": {
+            "budget": {
+                "range": "$40-$80 per set",
+                "items": [
+                    {
+                        "name": "Under Armour ColdGear",
+                        "price": "$50"
+                    },
+                    {
+                        "name": "32 Degrees Heat",
+                        "price": "$40"
+                    },
+                    {
+                        "name": "REI Co-op Midweight",
+                        "price": "$45"
+                    },
+                    {
+                        "name": "Columbia Omni-Heat",
+                        "price": "$60"
+                    },
+                    {
+                        "name": "Uniqlo Heattech",
+                        "price": "$40"
+                    },
+                    {
+                        "name": "Champion Duofold",
+                        "price": "$55"
+                    },
+                    {
+                        "name": "Carhartt Base Force",
+                        "price": "$65"
+                    },
+                    {
+                        "name": "The North Face Warm",
+                        "price": "$70"
+                    },
+                    {
+                        "name": "Eddie Bauer Midweight",
+                        "price": "$48"
+                    },
+                    {
+                        "name": "Minus33 Merino",
+                        "price": "$75"
+                    }
+                ]
+            },
+            "midRange": {
+                "range": "$80-$150 per set",
+                "items": [
+                    {
+                        "name": "Smartwool Merino 250",
+                        "price": "$100"
+                    },
+                    {
+                        "name": "Icebreaker 200",
+                        "price": "$120"
+                    },
+                    {
+                        "name": "Patagonia Capilene",
+                        "price": "$89"
+                    },
+                    {
+                        "name": "Arc'teryx Phase SL",
+                        "price": "$130"
+                    },
+                    {
+                        "name": "Outdoor Research Echo",
+                        "price": "$110"
+                    },
+                    {
+                        "name": "Ibex Woolies",
+                        "price": "$125"
+                    },
+                    {
+                        "name": "Helly Hansen Lifa",
+                        "price": "$95"
+                    },
+                    {
+                        "name": "Terramar Thermasilk",
+                        "price": "$105"
+                    },
+                    {
+                        "name": "Kari Traa Rose",
+                        "price": "$115"
+                    },
+                    {
+                        "name": "Odlo Performance",
+                        "price": "$140"
+                    }
+                ]
+            },
+            "highEnd": {
+                "range": "$150-$250+ per set",
+                "items": [
+                    {
+                        "name": "Arc'teryx Rho LT",
+                        "price": "$200"
+                    },
+                    {
+                        "name": "Icebreaker 260 Tech",
+                        "price": "$180"
+                    },
+                    {
+                        "name": "Patagonia Capilene Air",
+                        "price": "$169"
+                    },
+                    {
+                        "name": "Smartwool Intraknit",
+                        "price": "$150"
+                    },
+                    {
+                        "name": "Minus33 Expedition",
+                        "price": "$160"
+                    },
+                    {
+                        "name": "Norrona Wool",
+                        "price": "$220"
+                    },
+                    {
+                        "name": "Rapha Merino",
+                        "price": "$190"
+                    },
+                    {
+                        "name": "X-Bionic Energizer",
+                        "price": "$250"
+                    },
+                    {
+                        "name": "Helly Hansen HH Lifa Merino",
+                        "price": "$175"
+                    },
+                    {
+                        "name": "Ortovox 185 Rock'n'Wool",
+                        "price": "$210"
+                    },
+                    {
+                        "name": "---",
+                        "price": "See range"
+                    }
+                ]
+            }
+        }
     },
     {
         "id": "ski-poles",
-        "name": "SKI POLES",
+        "name": "Ski Poles",
         "sportCompatibility": [
             "Skiing"
         ],
@@ -1698,29 +2258,309 @@ export const gearCategories = [
     },
     {
         "id": "neck-gaiter",
-        "name": "NECK GAITER/BALACLAVA",
+        "name": "Neck Gaiters/Balaclavas",
         "sportCompatibility": [
             "Skiing",
             "Snowboarding"
         ],
         "essentialFor": "Face and neck protection",
         "essentialRating": 7,
-        "priceRanges": {}
+        "priceRanges": {
+            "budget": {
+                "range": "$10-$25",
+                "items": [
+                    {
+                        "name": "Buff Original",
+                        "price": "$20"
+                    },
+                    {
+                        "name": "Mission Snorkel Mask",
+                        "price": "$15"
+                    },
+                    {
+                        "name": "Seirus Neofleece",
+                        "price": "$12"
+                    },
+                    {
+                        "name": "Columbia Trail Shaker",
+                        "price": "$18"
+                    },
+                    {
+                        "name": "Outdoor Research Wind Pro",
+                        "price": "$25"
+                    },
+                    {
+                        "name": "The North Face Gaiter",
+                        "price": "$22"
+                    },
+                    {
+                        "name": "Turtle Fur",
+                        "price": "$18"
+                    },
+                    {
+                        "name": "Chaos CTR",
+                        "price": "$16"
+                    },
+                    {
+                        "name": "Gordini Combo Clava",
+                        "price": "$20"
+                    },
+                    {
+                        "name": "Under Armour ColdGear",
+                        "price": "$24"
+                    }
+                ]
+            },
+            "midRange": {
+                "range": "$25-$50",
+                "items": [
+                    {
+                        "name": "BlackStrap The Tube",
+                        "price": "$30"
+                    },
+                    {
+                        "name": "Smartwool Merino 150",
+                        "price": "$40"
+                    },
+                    {
+                        "name": "Rab Bandana",
+                        "price": "$45"
+                    },
+                    {
+                        "name": "Icebreaker Cool-Lite",
+                        "price": "$48"
+                    },
+                    {
+                        "name": "Buff Polar",
+                        "price": "$35"
+                    },
+                    {
+                        "name": "Outdoor Research Vigor",
+                        "price": "$42"
+                    },
+                    {
+                        "name": "Arc'teryx Rho AR",
+                        "price": "$50"
+                    },
+                    {
+                        "name": "Helly Hansen HH Lifa",
+                        "price": "$38"
+                    },
+                    {
+                        "name": "Patagonia Lightweight",
+                        "price": "$32"
+                    },
+                    {
+                        "name": "Mountain Hardwear",
+                        "price": "$45"
+                    }
+                ]
+            },
+            "highEnd": {
+                "range": "$50-$80",
+                "items": [
+                    {
+                        "name": "Arc'teryx Rho LT",
+                        "price": "$65"
+                    },
+                    {
+                        "name": "Smartwool NTS Mid 250",
+                        "price": "$60"
+                    },
+                    {
+                        "name": "Houdini Light Buff",
+                        "price": "$70"
+                    },
+                    {
+                        "name": "Under Armour ColdGear Infrared",
+                        "price": "$55"
+                    },
+                    {
+                        "name": "The North Face Apex Flex",
+                        "price": "$80"
+                    },
+                    {
+                        "name": "Icebreaker 260 Tech",
+                        "price": "$75"
+                    },
+                    {
+                        "name": "Norrona /29",
+                        "price": "$68"
+                    },
+                    {
+                        "name": "Outdoor Research Alpine Onset",
+                        "price": "$72"
+                    },
+                    {
+                        "name": "Patagonia R1",
+                        "price": "$79"
+                    },
+                    {
+                        "name": "Mountain Hardwear Power Stretch",
+                        "price": "$58"
+                    },
+                    {
+                        "name": "---",
+                        "price": "See range"
+                    }
+                ]
+            }
+        }
     },
     {
         "id": "backpacks",
-        "name": "BACKPACKS",
+        "name": "Backpacks",
         "sportCompatibility": [
             "Skiing",
             "Snowboarding"
         ],
         "essentialFor": "Carrying gear on the mountain",
         "essentialRating": 6,
-        "priceRanges": {}
+        "priceRanges": {
+            "budget": {
+                "range": "$40-$80",
+                "items": [
+                    {
+                        "name": "Dakine Session 12L",
+                        "price": "$50"
+                    },
+                    {
+                        "name": "Burton Day Hiker 20L",
+                        "price": "$55"
+                    },
+                    {
+                        "name": "Osprey Raptor 14",
+                        "price": "$75"
+                    },
+                    {
+                        "name": "Thule Upslope 20L",
+                        "price": "$60"
+                    },
+                    {
+                        "name": "Gregory Juno 16L",
+                        "price": "$75"
+                    },
+                    {
+                        "name": "The North Face Banchee 35",
+                        "price": "$70"
+                    },
+                    {
+                        "name": "Deuter Freerider Lite",
+                        "price": "$80"
+                    },
+                    {
+                        "name": "CamelBak Powderhound 12",
+                        "price": "$65"
+                    },
+                    {
+                        "name": "Patagonia Snowdrifter 20L",
+                        "price": "$79"
+                    },
+                    {
+                        "name": "Black Diamond Dawn Patrol 15",
+                        "price": "$75"
+                    }
+                ]
+            },
+            "midRange": {
+                "range": "$80-$150",
+                "items": [
+                    {
+                        "name": "Dakine Heli Pro 20L",
+                        "price": "$130"
+                    },
+                    {
+                        "name": "Burton Kilo 25L",
+                        "price": "$150"
+                    },
+                    {
+                        "name": "Osprey Kamber 22L",
+                        "price": "$140"
+                    },
+                    {
+                        "name": "The North Face Borealis",
+                        "price": "$130"
+                    },
+                    {
+                        "name": "Deuter Freerider Pro 22L",
+                        "price": "$150"
+                    },
+                    {
+                        "name": "Gregory Targhee 32",
+                        "price": "$145"
+                    },
+                    {
+                        "name": "Arc'teryx Aerios 15",
+                        "price": "$135"
+                    },
+                    {
+                        "name": "Patagonia Descensionist 32L",
+                        "price": "$149"
+                    },
+                    {
+                        "name": "Black Diamond JetForce Pro 25L",
+                        "price": "$150"
+                    },
+                    {
+                        "name": "Mammut Ride 30L",
+                        "price": "$140"
+                    }
+                ]
+            },
+            "highEnd": {
+                "range": "$150-$300+",
+                "items": [
+                    {
+                        "name": "Mammut Pro X 28L",
+                        "price": "$280"
+                    },
+                    {
+                        "name": "Arc'teryx Brize 30L",
+                        "price": "$200"
+                    },
+                    {
+                        "name": "Black Diamond Dawn Patrol 26L",
+                        "price": "$190"
+                    },
+                    {
+                        "name": "Patagonia Powder Bowl 32L",
+                        "price": "$220"
+                    },
+                    {
+                        "name": "Mystery Ranch Crestone 25L",
+                        "price": "$250"
+                    },
+                    {
+                        "name": "Osprey Soelden Pro 32",
+                        "price": "$280"
+                    },
+                    {
+                        "name": "The North Face Patrol 32L",
+                        "price": "$300"
+                    },
+                    {
+                        "name": "BCA Float 32",
+                        "price": "$275"
+                    },
+                    {
+                        "name": "Ortovox Ascent 30 Avabag",
+                        "price": "$300"
+                    },
+                    {
+                        "name": "Scott Backcountry AP 30",
+                        "price": "$260"
+                    },
+                    {
+                        "name": "---",
+                        "price": "See range"
+                    }
+                ]
+            }
+        }
     },
     {
         "id": "wrist-guards",
-        "name": "WRIST GUARDS",
+        "name": "Wrist Guards",
         "sportCompatibility": [
             "Snowboarding"
         ],
@@ -1870,7 +2710,7 @@ export const gearCategories = [
     },
     {
         "id": "impact-shorts",
-        "name": "IMPACT SHORTS",
+        "name": "Impact Shorts",
         "sportCompatibility": [
             "Snowboarding"
         ],
@@ -2020,25 +2860,305 @@ export const gearCategories = [
     },
     {
         "id": "avalanche-beacons",
-        "name": "AVALANCHE BEACONS",
+        "name": "Avalanche Beacons",
         "sportCompatibility": [
             "Skiing",
             "Snowboarding"
         ],
         "essentialFor": "Backcountry safety",
         "essentialRating": 10,
-        "priceRanges": {}
+        "priceRanges": {
+            "budget": {
+                "range": "$250-$400",
+                "items": [
+                    {
+                        "name": "BCA Tracker 3",
+                        "price": "$350"
+                    },
+                    {
+                        "name": "Mammut Barryvox Training",
+                        "price": "$280"
+                    },
+                    {
+                        "name": "Ortovox Zoom+",
+                        "price": "$290"
+                    },
+                    {
+                        "name": "Pieps DSP Sport",
+                        "price": "$350"
+                    },
+                    {
+                        "name": "Black Diamond Recon",
+                        "price": "$300"
+                    },
+                    {
+                        "name": "Arva Evo5",
+                        "price": "$325"
+                    },
+                    {
+                        "name": "Ortovox 3+",
+                        "price": "$380"
+                    },
+                    {
+                        "name": "BCA Tracker4",
+                        "price": "$400"
+                    },
+                    {
+                        "name": "Mammut Element",
+                        "price": "$270"
+                    },
+                    {
+                        "name": "Pieps Powder BT",
+                        "price": "$360"
+                    }
+                ]
+            },
+            "midRange": {
+                "range": "$400-$600",
+                "items": [
+                    {
+                        "name": "Mammut Barryvox S",
+                        "price": "$450"
+                    },
+                    {
+                        "name": "Pieps DSP Pro",
+                        "price": "$500"
+                    },
+                    {
+                        "name": "Ortovox S1+",
+                        "price": "$580"
+                    },
+                    {
+                        "name": "BCA Tracker S",
+                        "price": "$600"
+                    },
+                    {
+                        "name": "Arva Neo+",
+                        "price": "$560"
+                    },
+                    {
+                        "name": "Black Diamond Guide BT",
+                        "price": "$480"
+                    },
+                    {
+                        "name": "Mammut Barryvox",
+                        "price": "$520"
+                    },
+                    {
+                        "name": "Pieps Pro IPS",
+                        "price": "$550"
+                    },
+                    {
+                        "name": "Ortovox Diract",
+                        "price": "$500"
+                    },
+                    {
+                        "name": "Arva Evo4",
+                        "price": "$420"
+                    }
+                ]
+            },
+            "highEnd": {
+                "range": "$600-$900+",
+                "items": [
+                    {
+                        "name": "Mammut Barryvox\u2122 S Avalanche Transceiver",
+                        "price": "$700"
+                    },
+                    {
+                        "name": "Pieps Pro BT Safety System",
+                        "price": "$850"
+                    },
+                    {
+                        "name": "Backcountry Access D3 Avalanche Beacon",
+                        "price": "$780"
+                    },
+                    {
+                        "name": "Ortovox Zoom+ BT",
+                        "price": "$750"
+                    },
+                    {
+                        "name": "Arva 3+",
+                        "price": "$900"
+                    },
+                    {
+                        "name": "Black Diamond Recon X",
+                        "price": "$820"
+                    },
+                    {
+                        "name": "Mammut Pulse Barryvox",
+                        "price": "$650"
+                    },
+                    {
+                        "name": "Pieps Vector",
+                        "price": "$880"
+                    },
+                    {
+                        "name": "Ortovox Diract Voice",
+                        "price": "$725"
+                    },
+                    {
+                        "name": "BCA Tracker S Complete Package",
+                        "price": "$850"
+                    },
+                    {
+                        "name": "---",
+                        "price": "See range"
+                    }
+                ]
+            }
+        }
     },
     {
         "id": "mid-layers",
-        "name": "MID LAYERS",
+        "name": "Mid Layers",
         "sportCompatibility": [
             "Skiing",
             "Snowboarding"
         ],
         "essentialFor": "Insulation and warmth",
         "essentialRating": 7,
-        "priceRanges": {}
+        "priceRanges": {
+            "budget": {
+                "range": "$40-$80",
+                "items": [
+                    {
+                        "name": "Patagonia R1 Fleece",
+                        "price": "$80"
+                    },
+                    {
+                        "name": "Columbia Fast Trek",
+                        "price": "$60"
+                    },
+                    {
+                        "name": "The North Face Glacier Fleece Hoodie",
+                        "price": "$70"
+                    },
+                    {
+                        "name": "Arc'teryx Delta LT",
+                        "price": "$75"
+                    },
+                    {
+                        "name": "REI Co-op Fleece Half-Zip",
+                        "price": "$55"
+                    },
+                    {
+                        "name": "Mountain Hardwear Microchill",
+                        "price": "$65"
+                    },
+                    {
+                        "name": "Marmot Rocklin",
+                        "price": "$70"
+                    },
+                    {
+                        "name": "Outdoor Research Vigor",
+                        "price": "$80"
+                    },
+                    {
+                        "name": "Helly Hansen Daybreaker",
+                        "price": "$60"
+                    },
+                    {
+                        "name": "Eddie Bauer Cloud Layer",
+                        "price": "$50"
+                    }
+                ]
+            },
+            "midRange": {
+                "range": "$80-$150",
+                "items": [
+                    {
+                        "name": "Patagonia R1 TechFace Hoody",
+                        "price": "$130"
+                    },
+                    {
+                        "name": "Arc'teryx Atom LT",
+                        "price": "$140"
+                    },
+                    {
+                        "name": "Outdoor Research Ferrosi Hood",
+                        "price": "$130"
+                    },
+                    {
+                        "name": "Black Diamond Coefficient",
+                        "price": "$120"
+                    },
+                    {
+                        "name": "Mountain Hardwear Monkey Fleece",
+                        "price": "$130"
+                    },
+                    {
+                        "name": "Rab Alpha Flash",
+                        "price": "$145"
+                    },
+                    {
+                        "name": "Mammut Aconcagua",
+                        "price": "$125"
+                    },
+                    {
+                        "name": "The North Face Ventrix",
+                        "price": "$150"
+                    },
+                    {
+                        "name": "Houdini Power Houdi",
+                        "price": "$135"
+                    },
+                    {
+                        "name": "Norrona Falketind",
+                        "price": "$140"
+                    }
+                ]
+            },
+            "highEnd": {
+                "range": "$150-$300+",
+                "items": [
+                    {
+                        "name": "Arc'teryx Atom AR",
+                        "price": "$275"
+                    },
+                    {
+                        "name": "Patagonia Down Sweater",
+                        "price": "$229"
+                    },
+                    {
+                        "name": "Mountain Hardwear Cloud Bank",
+                        "price": "$280"
+                    },
+                    {
+                        "name": "Rab Xenon X",
+                        "price": "$230"
+                    },
+                    {
+                        "name": "Canada Goose Hybridge",
+                        "price": "$299"
+                    },
+                    {
+                        "name": "The North Face Summit",
+                        "price": "$250"
+                    },
+                    {
+                        "name": "Arc'teryx Nuclei FL",
+                        "price": "$350"
+                    },
+                    {
+                        "name": "Patagonia Nano Puff",
+                        "price": "$199"
+                    },
+                    {
+                        "name": "Outdoor Research Ascendant",
+                        "price": "$250"
+                    },
+                    {
+                        "name": "Norrona Lyngen Alpha",
+                        "price": "$280"
+                    },
+                    {
+                        "name": "---",
+                        "price": "See range"
+                    }
+                ]
+            }
+        }
     }
 ];
 
