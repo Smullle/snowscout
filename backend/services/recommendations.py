@@ -1,5 +1,5 @@
 from ddgs import DDGS
-from ..models import Recommendation, UserInventory
+from models import Recommendation, UserInventory
 from typing import List
 import re
 

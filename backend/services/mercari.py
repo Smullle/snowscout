@@ -1,6 +1,6 @@
 from mercapi import Mercapi
 from mercapi.models import SearchResults
-from ..models import SearchResult
+from models import SearchResult
 from typing import List
 
 async def search_mercari(query: str) -> List[SearchResult]:
