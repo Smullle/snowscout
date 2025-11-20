@@ -2,16 +2,23 @@ from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import List, Optional
+import os
+from dotenv import load_dotenv
 from .models import UserInventory, SearchResult, Recommendation
 from .services.mercari import search_mercari
 from .services.recommendations import get_recommendations
 
+# Load environment variables
+load_dotenv()
+
 app = FastAPI(title="Ski Gear Shopping API")
 
-# Configure CORS
+# Configure CORS - allow frontend origin from environment or default to localhost
+allowed_origins = os.getenv("ALLOWED_ORIGINS", "http://localhost:5173,http://localhost:3000").split(",")
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Allow all origins for development
+    allow_origins=allowed_origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

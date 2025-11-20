@@ -21,7 +21,8 @@ const GearSearch = ({ initialQuery = '' }) => {
         setLoading(true);
         setError(null);
         try {
-            const response = await fetch(`http://localhost:8000/search?query=${encodeURIComponent(searchQuery)}`);
+            const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:8000';
+            const response = await fetch(`${apiUrl}/search?query=${encodeURIComponent(searchQuery)}`);
             if (!response.ok) throw new Error('Search failed');
             const data = await response.json();
             setResults(data);
