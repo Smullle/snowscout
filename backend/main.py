@@ -1,6 +1,7 @@
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
+from fastapi.responses import JSONResponse
 from typing import List, Optional
 import os
 from dotenv import load_dotenv
@@ -13,8 +14,10 @@ load_dotenv()
 
 app = FastAPI(title="Ski Gear Shopping API")
 
-# Configure CORS - allow frontend origin from environment or default to localhost
-allowed_origins = os.getenv("ALLOWED_ORIGINS", "http://localhost:5173,http://localhost:3000").split(",")
+# Configure CORS
+raw_origins = os.getenv("ALLOWED_ORIGINS", "http://localhost:5173,http://localhost:3000")
+allowed_origins = [origin.strip() for origin in raw_origins.split(",")]
+print(f"Allowed Origins: {allowed_origins}")
 
 app.add_middleware(
     CORSMiddleware,
@@ -23,6 +26,16 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+@app.middleware("http")
+async def catch_exceptions_middleware(request, call_next):
+    try:
+        return await call_next(request)
+    except Exception as e:
+        print(f"Unhandled exception: {e}")
+        import traceback
+        traceback.print_exc()
+        return JSONResponse(status_code=500, content={"detail": "Internal Server Error"})
 
 @app.get("/")
 def read_root():

@@ -3,15 +3,20 @@ from mercapi.models import SearchResults
 from models import SearchResult
 from typing import List
 import traceback
+import asyncio
 
 async def search_mercari(query: str) -> List[SearchResult]:
     try:
         m = Mercapi()
         print(f"Searching Mercari for: {query}")
         
-        # mercapi is async, await it directly
-        results = await m.search(query)
-        print(f"Got results: {results}")
+        # Add timeout to prevent hanging
+        try:
+            results = await asyncio.wait_for(m.search(query), timeout=10.0)
+            print(f"Got results: {results}")
+        except asyncio.TimeoutError:
+            print("Mercari search timed out")
+            raise Exception("Search timed out")
         
         output = []
         if hasattr(results, 'items'):
@@ -36,4 +41,17 @@ async def search_mercari(query: str) -> List[SearchResult]:
     except Exception as e:
         print(f"Error in search_mercari: {e}")
         traceback.print_exc()
-        return []
+        
+        # Fallback mock data for debugging/reliability
+        print("Returning mock data due to error")
+        return [
+            SearchResult(
+                id="mock1",
+                title=f"Mock Result: {query} (Backend Error)",
+                price=10000,
+                image_url="",
+                item_url="https://jp.mercari.com",
+                source="System",
+                status="Error Fallback"
+            )
+        ]
