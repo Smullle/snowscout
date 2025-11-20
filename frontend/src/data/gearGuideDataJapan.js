@@ -17,39 +17,39 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Giro Ledge MIPS",
-                        "price": "See range"
+                        "price": "$73"
                     },
                     {
                         "name": "Smith Rodeo (non-MIPS)",
-                        "price": "See range"
+                        "price": "$57"
                     },
                     {
                         "name": "Bolle Eco Ryft",
-                        "price": "See range"
+                        "price": "$80"
                     },
                     {
                         "name": "Bern Watts",
-                        "price": "See range"
+                        "price": "$85"
                     },
                     {
                         "name": "Giro Nine",
-                        "price": "See range"
+                        "price": "$75"
                     },
                     {
                         "name": "Smith Maze",
-                        "price": "See range"
+                        "price": "$90"
                     },
                     {
                         "name": "Anon Raider",
-                        "price": "See range"
+                        "price": "$70"
                     },
                     {
                         "name": "POC Fornix",
-                        "price": "See range"
+                        "price": "$95"
                     },
                     {
                         "name": "Salomon Brigade",
-                        "price": "See range"
+                        "price": "$88"
                     }
                 ]
             },
@@ -58,43 +58,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Giro Ratio MIPS",
-                        "price": "See range"
+                        "price": "$120"
                     },
                     {
                         "name": "POC Obex MIPS",
-                        "price": "See range"
+                        "price": "$100"
                     },
                     {
                         "name": "Smith Rodeo MIPS",
-                        "price": "See range"
+                        "price": "$95"
                     },
                     {
                         "name": "NANDN NT-Series MIPS",
-                        "price": "See range"
+                        "price": "$130"
                     },
                     {
                         "name": "Pret Lyric X2",
-                        "price": "See range"
+                        "price": "$160"
                     },
                     {
                         "name": "Smith Method MIPS",
-                        "price": "See range"
+                        "price": "$140"
                     },
                     {
                         "name": "Atomic Four Amid Pro",
-                        "price": "See range"
+                        "price": "$180"
                     },
                     {
                         "name": "Bern Watts 2.0 MIPS",
-                        "price": "See range"
+                        "price": "$170"
                     },
                     {
                         "name": "Anon Prime MIPS",
-                        "price": "See range"
+                        "price": "$150"
                     },
                     {
                         "name": "Salomon Ranger\u00b2",
-                        "price": "See range"
+                        "price": "$145"
                     }
                 ]
             },
@@ -103,43 +103,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Smith Vantage MIPS",
-                        "price": "See range"
+                        "price": "$270"
                     },
                     {
                         "name": "Anon Merak WaveCell",
-                        "price": "See range"
+                        "price": "$320"
                     },
                     {
                         "name": "Oakley Mod5 MIPS",
-                        "price": "See range"
+                        "price": "$270"
                     },
                     {
                         "name": "Pret Cirque X MIPS",
-                        "price": "See range"
+                        "price": "$270"
                     },
                     {
                         "name": "Sweet Protection Switcher",
-                        "price": "See range"
+                        "price": "$270"
                     },
                     {
                         "name": "Giro Owen Spherical",
-                        "price": "See range"
+                        "price": "$240"
                     },
                     {
                         "name": "POC Obex BC MIPS",
-                        "price": "See range"
+                        "price": "$270"
                     },
                     {
                         "name": "Salomon Driver Prime Sigma",
-                        "price": "See range"
+                        "price": "$450"
                     },
                     {
                         "name": "Scott Symbol 2 Plus",
-                        "price": "See range"
+                        "price": "$200"
                     },
                     {
                         "name": "Atomic Savor AMID",
-                        "price": "See range"
+                        "price": "$230"
                     }
                 ]
             }
@@ -160,43 +160,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Smith Squad",
-                        "price": "See range"
+                        "price": "$80"
                     },
                     {
                         "name": "Giro Cruz",
-                        "price": "See range"
+                        "price": "$60"
                     },
                     {
                         "name": "Anon Helix",
-                        "price": "See range"
+                        "price": "$70"
                     },
                     {
                         "name": "Oakley O Frame 2.0",
-                        "price": "See range"
+                        "price": "$75"
                     },
                     {
                         "name": "Dragon NFX2",
-                        "price": "See range"
+                        "price": "$95"
                     },
                     {
                         "name": "Scott Unlimited II OTG",
-                        "price": "See range"
+                        "price": "$85"
                     },
                     {
                         "name": "Uvex Downhill 2000",
-                        "price": "See range"
+                        "price": "$90"
                     },
                     {
                         "name": "Bolle Mojo",
-                        "price": "See range"
+                        "price": "$65"
                     },
                     {
                         "name": "Electric Kleveland",
-                        "price": "See range"
+                        "price": "$100"
                     },
                     {
                         "name": "Spy Foundation",
-                        "price": "See range"
+                        "price": "$75"
                     }
                 ]
             },
@@ -205,43 +205,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Smith I/O MAG",
-                        "price": "See range"
+                        "price": "$180"
                     },
                     {
                         "name": "Oakley Flight Deck",
-                        "price": "See range"
+                        "price": "$160"
                     },
                     {
                         "name": "Anon M4 Toric",
-                        "price": "See range"
+                        "price": "$190"
                     },
                     {
                         "name": "Giro Contour RS",
-                        "price": "See range"
+                        "price": "$150"
                     },
                     {
                         "name": "POC Fovea Mid",
-                        "price": "See range"
+                        "price": "$170"
                     },
                     {
                         "name": "Dragon X2s",
-                        "price": "See range"
+                        "price": "$180"
                     },
                     {
                         "name": "Scott LCG Evo",
-                        "price": "See range"
+                        "price": "$175"
                     },
                     {
                         "name": "Spy Legacy",
-                        "price": "See range"
+                        "price": "$165"
                     },
                     {
                         "name": "Electric EG3",
-                        "price": "See range"
+                        "price": "$170"
                     },
                     {
                         "name": "Uvex Downhill 2100 S",
-                        "price": "See range"
+                        "price": "$155"
                     }
                 ]
             },
@@ -250,43 +250,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Smith I/O MAG XL ChromaPop",
-                        "price": "See range"
+                        "price": "$300"
                     },
                     {
                         "name": "Oakley Flight Deck XM Prizm",
-                        "price": "See range"
+                        "price": "$240"
                     },
                     {
                         "name": "Anon M5",
-                        "price": "See range"
+                        "price": "$350"
                     },
                     {
                         "name": "POC Zonula Race",
-                        "price": "See range"
+                        "price": "$380"
                     },
                     {
                         "name": "Giro Axis",
-                        "price": "See range"
+                        "price": "$280"
                     },
                     {
                         "name": "Dragon X2s Lumalens",
-                        "price": "See range"
+                        "price": "$250"
                     },
                     {
                         "name": "Scott Prospect",
-                        "price": "See range"
+                        "price": "$320"
                     },
                     {
                         "name": "Spy Legacy SE",
-                        "price": "See range"
+                        "price": "$220"
                     },
                     {
                         "name": "Electric EGX",
-                        "price": "See range"
+                        "price": "$400"
                     },
                     {
                         "name": "Oakley Flight Path L",
-                        "price": "See range"
+                        "price": "$260"
                     }
                 ]
             }
@@ -306,43 +306,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "REI Powderbound",
-                        "price": "See range"
+                        "price": "$229"
                     },
                     {
                         "name": "Columbia Platinum Peak II",
-                        "price": "See range"
+                        "price": "$200"
                     },
                     {
                         "name": "Backcountry CrestCarver Gore-Tex",
-                        "price": "See range"
+                        "price": "$157"
                     },
                     {
                         "name": "Dakine Sender Stretch 3L",
-                        "price": "See range"
+                        "price": "$250"
                     },
                     {
                         "name": "Trew Cosmic Primo",
-                        "price": "See range"
+                        "price": "$250"
                     },
                     {
                         "name": "Basic 10k/10k shells",
-                        "price": "See range"
+                        "price": "$150-200"
                     },
                     {
                         "name": "The North Face Sickline",
-                        "price": "See range"
+                        "price": "$199"
                     },
                     {
                         "name": "Salomon Stormrace",
-                        "price": "See range"
+                        "price": "$220"
                     },
                     {
                         "name": "Rossignol Fonction",
-                        "price": "See range"
+                        "price": "$240"
                     },
                     {
                         "name": "Spyder Leader",
-                        "price": "See range"
+                        "price": "$225"
                     }
                 ]
             },
@@ -351,43 +351,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Outdoor Research Carbide",
-                        "price": "See range"
+                        "price": "$329"
                     },
                     {
                         "name": "REI First Chair GTX",
-                        "price": "See range"
+                        "price": "$319"
                     },
                     {
                         "name": "Outdoor Research Skytour",
-                        "price": "See range"
+                        "price": "$320"
                     },
                     {
                         "name": "Montane Nordes",
-                        "price": "See range"
+                        "price": "$325"
                     },
                     {
                         "name": "Helly Hansen Alpha 4.0",
-                        "price": "See range"
+                        "price": "$261-$485"
                     },
                     {
                         "name": "Patagonia Powder Town",
-                        "price": "See range"
+                        "price": "$349"
                     },
                     {
                         "name": "Black Diamond Mission",
-                        "price": "See range"
+                        "price": "$375"
                     },
                     {
                         "name": "Marmot Spire",
-                        "price": "See range"
+                        "price": "$350"
                     },
                     {
                         "name": "Mountain Hardwear FireFall/2",
-                        "price": "See range"
+                        "price": "$400"
                     },
                     {
                         "name": "Flylow Baker Bib",
-                        "price": "See range"
+                        "price": "$389"
                     }
                 ]
             },
@@ -396,43 +396,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Arc'teryx Sabre",
-                        "price": "See range"
+                        "price": "$525-$750"
                     },
                     {
                         "name": "Patagonia Storm Shift",
-                        "price": "See range"
+                        "price": "$499"
                     },
                     {
                         "name": "Trew Gear Cosmic Primo",
-                        "price": "See range"
+                        "price": "$499"
                     },
                     {
                         "name": "Stio Figment",
-                        "price": "See range"
+                        "price": "$499"
                     },
                     {
                         "name": "Rab Khroma Converge",
-                        "price": "See range"
+                        "price": "$575"
                     },
                     {
                         "name": "Norrona Tamok GORE-TEX",
-                        "price": "See range"
+                        "price": "$699"
                     },
                     {
                         "name": "Rab Khroma Latok",
-                        "price": "See range"
+                        "price": "$680"
                     },
                     {
                         "name": "Terracea Sorrel",
-                        "price": "See range"
+                        "price": "$419"
                     },
                     {
                         "name": "Strafe Nomad",
-                        "price": "See range"
+                        "price": "$599"
                     },
                     {
                         "name": "Sweet Protection Crusader X",
-                        "price": "See range"
+                        "price": "$650"
                     }
                 ]
             }
@@ -452,43 +452,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Basic 10k waterproof shells",
-                        "price": "See range"
+                        "price": "$100-150"
                     },
                     {
                         "name": "32 Thirty Two jackets",
-                        "price": "See range"
+                        "price": "$120-180"
                     },
                     {
                         "name": "Burton Covert",
-                        "price": "See range"
+                        "price": "$160"
                     },
                     {
                         "name": "Volcom L Gore-Tex",
-                        "price": "See range"
+                        "price": "$200"
                     },
                     {
                         "name": "Ride Madison",
-                        "price": "See range"
+                        "price": "$150"
                     },
                     {
                         "name": "DC Servo",
-                        "price": "See range"
+                        "price": "$170"
                     },
                     {
                         "name": "Quiksilver Mission",
-                        "price": "See range"
+                        "price": "$190"
                     },
                     {
                         "name": "Billabong All Day",
-                        "price": "See range"
+                        "price": "$175"
                     },
                     {
                         "name": "Bonfire Structure",
-                        "price": "See range"
+                        "price": "$165"
                     },
                     {
                         "name": "Sessions Scout",
-                        "price": "See range"
+                        "price": "$155"
                     }
                 ]
             },
@@ -497,43 +497,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Burton AK Gore-Tex",
-                        "price": "See range"
+                        "price": "$300"
                     },
                     {
                         "name": "Volcom L Gore-Tex Insulated",
-                        "price": "See range"
+                        "price": "$280"
                     },
                     {
                         "name": "Airblaster Grampy",
-                        "price": "See range"
+                        "price": "$250"
                     },
                     {
                         "name": "686 GLCR Gore-Tex",
-                        "price": "See range"
+                        "price": "$320"
                     },
                     {
                         "name": "Picture Organic Naikoon",
-                        "price": "See range"
+                        "price": "$300"
                     },
                     {
                         "name": "Holden M-65",
-                        "price": "See range"
+                        "price": "$290"
                     },
                     {
                         "name": "Burton Covert 2.0",
-                        "price": "See range"
+                        "price": "$250"
                     },
                     {
                         "name": "Rome Footloose",
-                        "price": "See range"
+                        "price": "$280"
                     },
                     {
                         "name": "Lib Tech Totally Badass",
-                        "price": "See range"
+                        "price": "$320"
                     },
                     {
                         "name": "Ride Georgetown",
-                        "price": "See range"
+                        "price": "$275"
                     }
                 ]
             },
@@ -542,43 +542,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Burton AK Swash",
-                        "price": "See range"
+                        "price": "$550"
                     },
                     {
                         "name": "Arc'teryx Sabre AR",
-                        "price": "See range"
+                        "price": "$750"
                     },
                     {
                         "name": "Patagonia PowSlayer",
-                        "price": "See range"
+                        "price": "$599"
                     },
                     {
                         "name": "The North Face Steep Series",
-                        "price": "See range"
+                        "price": "$500"
                     },
                     {
                         "name": "Outdoor Research Hemispheres",
-                        "price": "See range"
+                        "price": "$479"
                     },
                     {
                         "name": "Volcom TDS INF Gore-Tex",
-                        "price": "See range"
+                        "price": "$600"
                     },
                     {
                         "name": "Burton AK Cyclic",
-                        "price": "See range"
+                        "price": "$500"
                     },
                     {
                         "name": "686 GLCR Hydrastash",
-                        "price": "See range"
+                        "price": "$450"
                     },
                     {
                         "name": "Jones Shralpinist",
-                        "price": "See range"
+                        "price": "$400"
                     },
                     {
                         "name": "Picture Organic Naikoon Pro",
-                        "price": "See range"
+                        "price": "$550"
                     }
                 ]
             }
@@ -598,43 +598,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Columbia Bugaboo",
-                        "price": "See range"
+                        "price": "$100"
                     },
                     {
                         "name": "REI Co-op pants",
-                        "price": "See range"
+                        "price": "$120"
                     },
                     {
                         "name": "Basic 10k shells",
-                        "price": "See range"
+                        "price": "$80-130"
                     },
                     {
                         "name": "Arctix Snow Pants",
-                        "price": "See range"
+                        "price": "$80"
                     },
                     {
                         "name": "The North Face Freedom",
-                        "price": "See range"
+                        "price": "$149"
                     },
                     {
                         "name": "Salomon Stormseason",
-                        "price": "See range"
+                        "price": "$140"
                     },
                     {
                         "name": "Rossignol Rapide",
-                        "price": "See range"
+                        "price": "$130"
                     },
                     {
                         "name": "Spyder Bormio",
-                        "price": "See range"
+                        "price": "$125"
                     },
                     {
                         "name": "Marker Gillette",
-                        "price": "See range"
+                        "price": "$110"
                     },
                     {
                         "name": "Oakley Division",
-                        "price": "See range"
+                        "price": "$150"
                     }
                 ]
             },
@@ -643,43 +643,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Outdoor Research Cirque",
-                        "price": "See range"
+                        "price": "$189"
                     },
                     {
                         "name": "Helly Hansen Legendary",
-                        "price": "See range"
+                        "price": "$200"
                     },
                     {
                         "name": "Patagonia Powder Bowl",
-                        "price": "See range"
+                        "price": "$229"
                     },
                     {
                         "name": "Arc'teryx Sabre Pant",
-                        "price": "See range"
+                        "price": "$249"
                     },
                     {
                         "name": "Black Diamond Mission",
-                        "price": "See range"
+                        "price": "$225"
                     },
                     {
                         "name": "Flylow Chemical",
-                        "price": "See range"
+                        "price": "$219"
                     },
                     {
                         "name": "Mountain Hardwear Cloud Bank",
-                        "price": "See range"
+                        "price": "$240"
                     },
                     {
                         "name": "Marmot Refuge",
-                        "price": "See range"
+                        "price": "$200"
                     },
                     {
                         "name": "Mammut Tatramar SO",
-                        "price": "See range"
+                        "price": "$230"
                     },
                     {
                         "name": "Rab Khroma GTX",
-                        "price": "See range"
+                        "price": "$250"
                     }
                 ]
             },
@@ -688,43 +688,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Arc'teryx Sabre AR",
-                        "price": "See range"
+                        "price": "$425"
                     },
                     {
                         "name": "Patagonia Upstride",
-                        "price": "See range"
+                        "price": "$399"
                     },
                     {
                         "name": "Norrona Lofoten",
-                        "price": "See range"
+                        "price": "$450"
                     },
                     {
                         "name": "Sweet Protection Supernaut",
-                        "price": "See range"
+                        "price": "$380"
                     },
                     {
                         "name": "Rab Khroma Kinetic",
-                        "price": "See range"
+                        "price": "$500"
                     },
                     {
                         "name": "Strafe Nomad",
-                        "price": "See range"
+                        "price": "$475"
                     },
                     {
                         "name": "Trew TREWth Bib",
-                        "price": "See range"
+                        "price": "$429"
                     },
                     {
                         "name": "Outdoor Research Skyward II",
-                        "price": "See range"
+                        "price": "$349"
                     },
                     {
                         "name": "Flylow Baker Bib",
-                        "price": "See range"
+                        "price": "$389"
                     },
                     {
                         "name": "Mountain Hardwear Firefall/2 Bib",
-                        "price": "See range"
+                        "price": "$450"
                     }
                 ]
             }
@@ -744,43 +744,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Burton Covert",
-                        "price": "See range"
+                        "price": "$130"
                     },
                     {
                         "name": "686 Standard",
-                        "price": "See range"
+                        "price": "$120"
                     },
                     {
                         "name": "Volcom Freakin",
-                        "price": "See range"
+                        "price": "$110"
                     },
                     {
                         "name": "Ride Phinney",
-                        "price": "See range"
+                        "price": "$140"
                     },
                     {
                         "name": "DC Banshee",
-                        "price": "See range"
+                        "price": "$125"
                     },
                     {
                         "name": "Quiksilver Estate",
-                        "price": "See range"
+                        "price": "$135"
                     },
                     {
                         "name": "Billabong Compass",
-                        "price": "See range"
+                        "price": "$145"
                     },
                     {
                         "name": "Sessions Agent",
-                        "price": "See range"
+                        "price": "$120"
                     },
                     {
                         "name": "Bonfire Tactical",
-                        "price": "See range"
+                        "price": "$130"
                     },
                     {
                         "name": "Thirty Two Essex",
-                        "price": "See range"
+                        "price": "$150"
                     }
                 ]
             },
@@ -789,43 +789,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Burton AK Gore-Tex",
-                        "price": "See range"
+                        "price": "$220"
                     },
                     {
                         "name": "686 GLCR Gore-Tex",
-                        "price": "See range"
+                        "price": "$240"
                     },
                     {
                         "name": "Volcom L Gore-Tex",
-                        "price": "See range"
+                        "price": "$250"
                     },
                     {
                         "name": "Airblaster Freedom",
-                        "price": "See range"
+                        "price": "$180"
                     },
                     {
                         "name": "Picture Organic Object",
-                        "price": "See range"
+                        "price": "$220"
                     },
                     {
                         "name": "Holden Standard",
-                        "price": "See range"
+                        "price": "$200"
                     },
                     {
                         "name": "Rome Bodega",
-                        "price": "See range"
+                        "price": "$195"
                     },
                     {
                         "name": "Ride Central",
-                        "price": "See range"
+                        "price": "$230"
                     },
                     {
                         "name": "Burton Reserve Bib",
-                        "price": "See range"
+                        "price": "$250"
                     },
                     {
                         "name": "Lib Tech Totally Badass",
-                        "price": "See range"
+                        "price": "$240"
                     }
                 ]
             },
@@ -834,43 +834,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Burton AK Swash Bib",
-                        "price": "See range"
+                        "price": "$450"
                     },
                     {
                         "name": "Arc'teryx Sabre",
-                        "price": "See range"
+                        "price": "$425"
                     },
                     {
                         "name": "Patagonia Powder Bowl Bib",
-                        "price": "See range"
+                        "price": "$399"
                     },
                     {
                         "name": "The North Face Steep Series",
-                        "price": "See range"
+                        "price": "$380"
                     },
                     {
                         "name": "Volcom TDS INF Gore-Tex Bib",
-                        "price": "See range"
+                        "price": "$500"
                     },
                     {
                         "name": "Burton AK Cyclic",
-                        "price": "See range"
+                        "price": "$420"
                     },
                     {
                         "name": "686 GLCR Quantum Thermagraph",
-                        "price": "See range"
+                        "price": "$380"
                     },
                     {
                         "name": "Jones Shralpinist",
-                        "price": "See range"
+                        "price": "$350"
                     },
                     {
                         "name": "Picture Organic Naikoon Pro",
-                        "price": "See range"
+                        "price": "$450"
                     },
                     {
                         "name": "Outdoor Research Hemispheres",
-                        "price": "See range"
+                        "price": "$400"
                     }
                 ]
             }
@@ -890,43 +890,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Rossignol Experience",
-                        "price": "See range"
+                        "price": "$300"
                     },
                     {
                         "name": "K2 Mindbender 85",
-                        "price": "See range"
+                        "price": "$350"
                     },
                     {
                         "name": "Salomon QST 85",
-                        "price": "See range"
+                        "price": "$380"
                     },
                     {
                         "name": "Head Kore 87",
-                        "price": "See range"
+                        "price": "$400"
                     },
                     {
                         "name": "Nordica Navigator",
-                        "price": "See range"
+                        "price": "$280"
                     },
                     {
                         "name": "Blizzard Brahma",
-                        "price": "See range"
+                        "price": "$350"
                     },
                     {
                         "name": "Atomic Vantage 86",
-                        "price": "See range"
+                        "price": "$380"
                     },
                     {
                         "name": "Volkl Kendo 88",
-                        "price": "See range"
+                        "price": "$400"
                     },
                     {
                         "name": "Fischer Ranger",
-                        "price": "See range"
+                        "price": "$320"
                     },
                     {
                         "name": "Elan Ripstick",
-                        "price": "See range"
+                        "price": "$375"
                     }
                 ]
             },
@@ -935,43 +935,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Blizzard Bonafide",
-                        "price": "See range"
+                        "price": "$650"
                     },
                     {
                         "name": "Atomic Maverick",
-                        "price": "See range"
+                        "price": "$600"
                     },
                     {
                         "name": "Volkl M6 Mantra",
-                        "price": "See range"
+                        "price": "$700"
                     },
                     {
                         "name": "K2 Mindbender 99Ti",
-                        "price": "See range"
+                        "price": "$650"
                     },
                     {
                         "name": "Line Blade Optic",
-                        "price": "See range"
+                        "price": "$550"
                     },
                     {
                         "name": "Nordica Enforcer",
-                        "price": "See range"
+                        "price": "$680"
                     },
                     {
                         "name": "Salomon QST 106",
-                        "price": "See range"
+                        "price": "$600"
                     },
                     {
                         "name": "Head Kore 93",
-                        "price": "See range"
+                        "price": "$620"
                     },
                     {
                         "name": "Rossignol Soul 7",
-                        "price": "See range"
+                        "price": "$575"
                     },
                     {
                         "name": "Fischer Ranger 102",
-                        "price": "See range"
+                        "price": "$650"
                     }
                 ]
             },
@@ -980,43 +980,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "DPS Pagoda Tour",
-                        "price": "See range"
+                        "price": "$1100"
                     },
                     {
                         "name": "Black Crows Corvus",
-                        "price": "See range"
+                        "price": "$900"
                     },
                     {
                         "name": "Faction Dictator",
-                        "price": "See range"
+                        "price": "$850"
                     },
                     {
                         "name": "4FRNT MSP",
-                        "price": "See range"
+                        "price": "$800"
                     },
                     {
                         "name": "Moment Deathwish",
-                        "price": "See range"
+                        "price": "$899"
                     },
                     {
                         "name": "J Skis Masterblaster",
-                        "price": "See range"
+                        "price": "$950"
                     },
                     {
                         "name": "Icelantic Nomad",
-                        "price": "See range"
+                        "price": "$899"
                     },
                     {
                         "name": "ON3P Jeffrey",
-                        "price": "See range"
+                        "price": "$750"
                     },
                     {
                         "name": "Wagner Custom",
-                        "price": "See range"
+                        "price": "$1200+"
                     },
                     {
                         "name": "Prior Husume",
-                        "price": "See range"
+                        "price": "$850"
                     }
                 ]
             }
@@ -1036,43 +1036,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Pathron boards",
-                        "price": "See range"
+                        "price": "$200-300"
                     },
                     {
                         "name": "Raven boards",
-                        "price": "See range"
+                        "price": "$250-350"
                     },
                     {
                         "name": "Ride Twinpig",
-                        "price": "See range"
+                        "price": "$350"
                     },
                     {
                         "name": "K2 Standard",
-                        "price": "See range"
+                        "price": "$300"
                     },
                     {
                         "name": "Nitro Team",
-                        "price": "See range"
+                        "price": "$380"
                     },
                     {
                         "name": "Salomon Sight",
-                        "price": "See range"
+                        "price": "$320"
                     },
                     {
                         "name": "Burton Instigator",
-                        "price": "See range"
+                        "price": "$280"
                     },
                     {
                         "name": "Rossignol District",
-                        "price": "See range"
+                        "price": "$300"
                     },
                     {
                         "name": "Head True",
-                        "price": "See range"
+                        "price": "$350"
                     },
                     {
                         "name": "Bataleon Fun.Kink",
-                        "price": "See range"
+                        "price": "$380"
                     }
                 ]
             },
@@ -1081,43 +1081,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Burton Custom",
-                        "price": "See range"
+                        "price": "$550"
                     },
                     {
                         "name": "Jones Mountain Twin",
-                        "price": "See range"
+                        "price": "$580"
                     },
                     {
                         "name": "Capita DOA",
-                        "price": "See range"
+                        "price": "$500"
                     },
                     {
                         "name": "Gnu Riders Choice",
-                        "price": "See range"
+                        "price": "$530"
                     },
                     {
                         "name": "Rome Artifact",
-                        "price": "See range"
+                        "price": "$480"
                     },
                     {
                         "name": "Ride Algorhythm",
-                        "price": "See range"
+                        "price": "$550"
                     },
                     {
                         "name": "Yes Standard",
-                        "price": "See range"
+                        "price": "$520"
                     },
                     {
                         "name": "Arbor Formula",
-                        "price": "See range"
+                        "price": "$500"
                     },
                     {
                         "name": "Lib Tech Skate Banana",
-                        "price": "See range"
+                        "price": "$480"
                     },
                     {
                         "name": "Never Summer Proto Synthesis",
-                        "price": "See range"
+                        "price": "$570"
                     }
                 ]
             },
@@ -1126,43 +1126,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Burton Custom X",
-                        "price": "See range"
+                        "price": "$750"
                     },
                     {
                         "name": "Lib Tech T.Rice Orca",
-                        "price": "See range"
+                        "price": "$700"
                     },
                     {
                         "name": "Jones Flagship",
-                        "price": "See range"
+                        "price": "$680"
                     },
                     {
                         "name": "Never Summer Proto Type Two",
-                        "price": "See range"
+                        "price": "$650"
                     },
                     {
                         "name": "Borealis Telemark",
-                        "price": "See range"
+                        "price": "$800+"
                     },
                     {
                         "name": "Burton Flight Attendant",
-                        "price": "See range"
+                        "price": "$800"
                     },
                     {
                         "name": "Capita Mercury",
-                        "price": "See range"
+                        "price": "$720"
                     },
                     {
                         "name": "Rome Ravine",
-                        "price": "See range"
+                        "price": "$680"
                     },
                     {
                         "name": "Gnu Gremlin",
-                        "price": "See range"
+                        "price": "$650"
                     },
                     {
                         "name": "Arbor Coda Camber",
-                        "price": "See range"
+                        "price": "$700"
                     }
                 ]
             }
@@ -1182,43 +1182,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Rossignol Evo 70",
-                        "price": "See range"
+                        "price": "$200"
                     },
                     {
                         "name": "Nordica Cruise",
-                        "price": "See range"
+                        "price": "$220"
                     },
                     {
                         "name": "Salomon S/Pro 80",
-                        "price": "See range"
+                        "price": "$250"
                     },
                     {
                         "name": "Atomic Hawx Magna",
-                        "price": "See range"
+                        "price": "$280"
                     },
                     {
                         "name": "Head Edge",
-                        "price": "See range"
+                        "price": "$180"
                     },
                     {
                         "name": "K2 BFC",
-                        "price": "See range"
+                        "price": "$240"
                     },
                     {
                         "name": "Tecnica Cochise",
-                        "price": "See range"
+                        "price": "$290"
                     },
                     {
                         "name": "Dalbello DS",
-                        "price": "See range"
+                        "price": "$250"
                     },
                     {
                         "name": "Fischer RC4",
-                        "price": "See range"
+                        "price": "$275"
                     },
                     {
                         "name": "Lange RX",
-                        "price": "See range"
+                        "price": "$300"
                     }
                 ]
             },
@@ -1227,43 +1227,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Salomon S/Pro 100",
-                        "price": "See range"
+                        "price": "$400"
                     },
                     {
                         "name": "Atomic Hawx Prime",
-                        "price": "See range"
+                        "price": "$450"
                     },
                     {
                         "name": "Tecnica Mach1",
-                        "price": "See range"
+                        "price": "$480"
                     },
                     {
                         "name": "Rossignol Alltrack",
-                        "price": "See range"
+                        "price": "$420"
                     },
                     {
                         "name": "Dalbello Panterra",
-                        "price": "See range"
+                        "price": "$400"
                     },
                     {
                         "name": "Nordica Speedmachine",
-                        "price": "See range"
+                        "price": "$450"
                     },
                     {
                         "name": "Head Raptor",
-                        "price": "See range"
+                        "price": "$380"
                     },
                     {
                         "name": "K2 Recon",
-                        "price": "See range"
+                        "price": "$425"
                     },
                     {
                         "name": "Fischer RC Pro",
-                        "price": "See range"
+                        "price": "$470"
                     },
                     {
                         "name": "Lange RX 120",
-                        "price": "See range"
+                        "price": "$500"
                     }
                 ]
             },
@@ -1272,43 +1272,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Atomic Hawx Ultra",
-                        "price": "See range"
+                        "price": "$700"
                     },
                     {
                         "name": "Tecnica Mach1 Pro",
-                        "price": "See range"
+                        "price": "$750"
                     },
                     {
                         "name": "Lange RS",
-                        "price": "See range"
+                        "price": "$800"
                     },
                     {
                         "name": "Full Tilt First Chair",
-                        "price": "See range"
+                        "price": "$650"
                     },
                     {
                         "name": "Salomon S/Max",
-                        "price": "See range"
+                        "price": "$600"
                     },
                     {
                         "name": "Dalbello Lupo",
-                        "price": "See range"
+                        "price": "$850"
                     },
                     {
                         "name": "Scarpa Maestrale",
-                        "price": "See range"
+                        "price": "$799"
                     },
                     {
                         "name": "Fischer Vacuum",
-                        "price": "See range"
+                        "price": "$900"
                     },
                     {
                         "name": "Nordica Strider",
-                        "price": "See range"
+                        "price": "$750"
                     },
                     {
                         "name": "Head Raptor WCR",
-                        "price": "See range"
+                        "price": "$825"
                     }
                 ]
             }
@@ -1328,43 +1328,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "K2 Maysis",
-                        "price": "See range"
+                        "price": "$180"
                     },
                     {
                         "name": "Ride Anthem",
-                        "price": "See range"
+                        "price": "$200"
                     },
                     {
                         "name": "Burton Moto",
-                        "price": "See range"
+                        "price": "$150"
                     },
                     {
                         "name": "Thirty Two Lashed",
-                        "price": "See range"
+                        "price": "$220"
                     },
                     {
                         "name": "Salomon Launch",
-                        "price": "See range"
+                        "price": "$160"
                     },
                     {
                         "name": "DC Phase",
-                        "price": "See range"
+                        "price": "$170"
                     },
                     {
                         "name": "Nitro Team",
-                        "price": "See range"
+                        "price": "$190"
                     },
                     {
                         "name": "Head Rodeo",
-                        "price": "See range"
+                        "price": "$180"
                     },
                     {
                         "name": "Flow Vega",
-                        "price": "See range"
+                        "price": "$210"
                     },
                     {
                         "name": "Rossignol Excite",
-                        "price": "See range"
+                        "price": "$165"
                     }
                 ]
             },
@@ -1373,43 +1373,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Burton Ion",
-                        "price": "See range"
+                        "price": "$350"
                     },
                     {
                         "name": "Vans Infuse",
-                        "price": "See range"
+                        "price": "$300"
                     },
                     {
                         "name": "ThirtyTwo TM-2",
-                        "price": "See range"
+                        "price": "$380"
                     },
                     {
                         "name": "DC Judge",
-                        "price": "See range"
+                        "price": "$280"
                     },
                     {
                         "name": "Salomon Dialogue",
-                        "price": "See range"
+                        "price": "$340"
                     },
                     {
                         "name": "Ride Insano",
-                        "price": "See range"
+                        "price": "$320"
                     },
                     {
                         "name": "K2 Renin",
-                        "price": "See range"
+                        "price": "$295"
                     },
                     {
                         "name": "Nitro Cuda TLS",
-                        "price": "See range"
+                        "price": "$360"
                     },
                     {
                         "name": "Rome Bodega",
-                        "price": "See range"
+                        "price": "$310"
                     },
                     {
                         "name": "Deeluxe Empire",
-                        "price": "See range"
+                        "price": "$375"
                     }
                 ]
             },
@@ -1418,43 +1418,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Burton Driver X",
-                        "price": "See range"
+                        "price": "$550"
                     },
                     {
                         "name": "ThirtyTwo TM-3",
-                        "price": "See range"
+                        "price": "$600"
                     },
                     {
                         "name": "Vans Hi-Standard Pro",
-                        "price": "See range"
+                        "price": "$450"
                     },
                     {
                         "name": "Adidas Tactical ADV",
-                        "price": "See range"
+                        "price": "$500"
                     },
                     {
                         "name": "Burton Photon",
-                        "price": "See range"
+                        "price": "$700"
                     },
                     {
                         "name": "Ride Fuse",
-                        "price": "See range"
+                        "price": "$480"
                     },
                     {
                         "name": "K2 Thraxis",
-                        "price": "See range"
+                        "price": "$520"
                     },
                     {
                         "name": "DC Travis Rice",
-                        "price": "See range"
+                        "price": "$650"
                     },
                     {
                         "name": "Salomon Synapse",
-                        "price": "See range"
+                        "price": "$580"
                     },
                     {
                         "name": "ThirtyTwo Focus Boa",
-                        "price": "See range"
+                        "price": "$460"
                     }
                 ]
             }
@@ -1474,43 +1474,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Tyrolia Attack 11",
-                        "price": "See range"
+                        "price": "$150"
                     },
                     {
                         "name": "Marker Griffon 13",
-                        "price": "See range"
+                        "price": "$180"
                     },
                     {
                         "name": "Salomon Warden 11",
-                        "price": "See range"
+                        "price": "$160"
                     },
                     {
                         "name": "Look SPX 12",
-                        "price": "See range"
+                        "price": "$200"
                     },
                     {
                         "name": "Atomic Shift",
-                        "price": "See range"
+                        "price": "$175"
                     },
                     {
                         "name": "Rossignol Xpress 11",
-                        "price": "See range"
+                        "price": "$140"
                     },
                     {
                         "name": "Head Tyrolia SX 11",
-                        "price": "See range"
+                        "price": "$160"
                     },
                     {
                         "name": "Nordica Squire 11",
-                        "price": "See range"
+                        "price": "$150"
                     },
                     {
                         "name": "Fischer Attack 13",
-                        "price": "See range"
+                        "price": "$185"
                     },
                     {
                         "name": "Elan ELW 11",
-                        "price": "See range"
+                        "price": "$145"
                     }
                 ]
             },
@@ -1519,43 +1519,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Look Pivot 14",
-                        "price": "See range"
+                        "price": "$300"
                     },
                     {
                         "name": "Marker Jester 16",
-                        "price": "See range"
+                        "price": "$350"
                     },
                     {
                         "name": "Tyrolia Attack 14",
-                        "price": "See range"
+                        "price": "$280"
                     },
                     {
                         "name": "Salomon STH2 13",
-                        "price": "See range"
+                        "price": "$320"
                     },
                     {
                         "name": "Atomic Warden MNC 13",
-                        "price": "See range"
+                        "price": "$250"
                     },
                     {
                         "name": "Rossignol Pivot 12",
-                        "price": "See range"
+                        "price": "$290"
                     },
                     {
                         "name": "Marker Baron 13",
-                        "price": "See range"
+                        "price": "$380"
                     },
                     {
                         "name": "Fischer Curv 13",
-                        "price": "See range"
+                        "price": "$310"
                     },
                     {
                         "name": "Nordica NC 13",
-                        "price": "See range"
+                        "price": "$275"
                     },
                     {
                         "name": "Head Tyrolia Adrenalin 16",
-                        "price": "See range"
+                        "price": "$350"
                     }
                 ]
             },
@@ -1564,43 +1564,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Look Pivot 18",
-                        "price": "See range"
+                        "price": "$500"
                     },
                     {
                         "name": "Marker Duke PT 16",
-                        "price": "See range"
+                        "price": "$700"
                     },
                     {
                         "name": "Fritschi Tecton 12",
-                        "price": "See range"
+                        "price": "$650"
                     },
                     {
                         "name": "Salomon Shift2",
-                        "price": "See range"
+                        "price": "$600"
                     },
                     {
                         "name": "ATK Raider 12",
-                        "price": "See range"
+                        "price": "$550"
                     },
                     {
                         "name": "G3 Zed 12",
-                        "price": "See range"
+                        "price": "$600"
                     },
                     {
                         "name": "Dynafit Superlite 2.0",
-                        "price": "See range"
+                        "price": "$500"
                     },
                     {
                         "name": "Plum Summit 12",
-                        "price": "See range"
+                        "price": "$650"
                     },
                     {
                         "name": "Marker Kingpin 13",
-                        "price": "See range"
+                        "price": "$550"
                     },
                     {
                         "name": "Black Diamond Helio",
-                        "price": "See range"
+                        "price": "$480"
                     }
                 ]
             }
@@ -1620,43 +1620,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Burton Mission",
-                        "price": "See range"
+                        "price": "$150"
                     },
                     {
                         "name": "K2 Sonic",
-                        "price": "See range"
+                        "price": "$130"
                     },
                     {
                         "name": "Ride EX",
-                        "price": "See range"
+                        "price": "$140"
                     },
                     {
                         "name": "Flow Alpha",
-                        "price": "See range"
+                        "price": "$160"
                     },
                     {
                         "name": "Salomon Rhythm",
-                        "price": "See range"
+                        "price": "$120"
                     },
                     {
                         "name": "Union Flite Pro",
-                        "price": "See range"
+                        "price": "$170"
                     },
                     {
                         "name": "Rome 390 Boss",
-                        "price": "See range"
+                        "price": "$155"
                     },
                     {
                         "name": "Nitro Team",
-                        "price": "See range"
+                        "price": "$145"
                     },
                     {
                         "name": "Drake Reload",
-                        "price": "See range"
+                        "price": "$130"
                     },
                     {
                         "name": "Now Drive",
-                        "price": "See range"
+                        "price": "$180"
                     }
                 ]
             },
@@ -1665,43 +1665,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Burton Cartel",
-                        "price": "See range"
+                        "price": "$250"
                     },
                     {
                         "name": "Union Force",
-                        "price": "See range"
+                        "price": "$240"
                     },
                     {
                         "name": "Ride Capo",
-                        "price": "See range"
+                        "price": "$220"
                     },
                     {
                         "name": "Bent Metal Transfer",
-                        "price": "See range"
+                        "price": "$200"
                     },
                     {
                         "name": "Rome Katana",
-                        "price": "See range"
+                        "price": "$270"
                     },
                     {
                         "name": "NOW Brigade",
-                        "price": "See range"
+                        "price": "$260"
                     },
                     {
                         "name": "Flux DS",
-                        "price": "See range"
+                        "price": "$230"
                     },
                     {
                         "name": "Salomon Hologram",
-                        "price": "See range"
+                        "price": "$210"
                     },
                     {
                         "name": "K2 Lien FS",
-                        "price": "See range"
+                        "price": "$250"
                     },
                     {
                         "name": "Arbor Hemlock",
-                        "price": "See range"
+                        "price": "$225"
                     }
                 ]
             },
@@ -1710,43 +1710,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Burton Genesis",
-                        "price": "See range"
+                        "price": "$400"
                     },
                     {
                         "name": "Union Atlas",
-                        "price": "See range"
+                        "price": "$320"
                     },
                     {
                         "name": "Jones Apollo",
-                        "price": "See range"
+                        "price": "$350"
                     },
                     {
                         "name": "Spark R&D Arc",
-                        "price": "See range"
+                        "price": "$450"
                     },
                     {
                         "name": "Burton Step On X",
-                        "price": "See range"
+                        "price": "$480"
                     },
                     {
                         "name": "NOW Pilot",
-                        "price": "See range"
+                        "price": "$380"
                     },
                     {
                         "name": "Rome Black Label",
-                        "price": "See range"
+                        "price": "$340"
                     },
                     {
                         "name": "Flux XV",
-                        "price": "See range"
+                        "price": "$300"
                     },
                     {
                         "name": "Union Strata",
-                        "price": "See range"
+                        "price": "$360"
                     },
                     {
                         "name": "Burton Hitchhiker",
-                        "price": "See range"
+                        "price": "$500"
                     }
                 ]
             }
@@ -1767,43 +1767,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Outdoor Research Adrenaline",
-                        "price": "See range"
+                        "price": "$40"
                     },
                     {
                         "name": "Dakine Scout",
-                        "price": "See range"
+                        "price": "$45"
                     },
                     {
                         "name": "Burton Profile",
-                        "price": "See range"
+                        "price": "$50"
                     },
                     {
                         "name": "Hestra Army Leather",
-                        "price": "See range"
+                        "price": "$55"
                     },
                     {
                         "name": "Black Diamond Guide",
-                        "price": "See range"
+                        "price": "$60"
                     },
                     {
                         "name": "Mountain Hardwear Cloud Bank",
-                        "price": "See range"
+                        "price": "$48"
                     },
                     {
                         "name": "The North Face Montana",
-                        "price": "See range"
+                        "price": "$50"
                     },
                     {
                         "name": "Columbia Bugaboo",
-                        "price": "See range"
+                        "price": "$35"
                     },
                     {
                         "name": "Gordini Aquabloc",
-                        "price": "See range"
+                        "price": "$45"
                     },
                     {
                         "name": "Seirus Heatwave",
-                        "price": "See range"
+                        "price": "$42"
                     }
                 ]
             },
@@ -1812,43 +1812,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Hestra Fall Line",
-                        "price": "See range"
+                        "price": "$90"
                     },
                     {
                         "name": "Outdoor Research Stormtracker",
-                        "price": "See range"
+                        "price": "$100"
                     },
                     {
                         "name": "Black Diamond Guide Pro",
-                        "price": "See range"
+                        "price": "$110"
                     },
                     {
                         "name": "Dakine Titan",
-                        "price": "See range"
+                        "price": "$85"
                     },
                     {
                         "name": "Burton AK Tech",
-                        "price": "See range"
+                        "price": "$120"
                     },
                     {
                         "name": "Flylow Ridge",
-                        "price": "See range"
+                        "price": "$95"
                     },
                     {
                         "name": "Kinco 901 (modified)",
-                        "price": "See range"
+                        "price": "$75"
                     },
                     {
                         "name": "Mountain Hardwear FireFall/2",
-                        "price": "See range"
+                        "price": "$110"
                     },
                     {
                         "name": "POW Gloves Villain",
-                        "price": "See range"
+                        "price": "$80"
                     },
                     {
                         "name": "Seirus Innovation",
-                        "price": "See range"
+                        "price": "$70"
                     }
                 ]
             },
@@ -1857,43 +1857,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Hestra Army Leather Heli",
-                        "price": "See range"
+                        "price": "$180"
                     },
                     {
                         "name": "Black Diamond Guide Heated",
-                        "price": "See range"
+                        "price": "$220"
                     },
                     {
                         "name": "Arc'teryx Fission SV",
-                        "price": "See range"
+                        "price": "$200"
                     },
                     {
                         "name": "Outdoor Research Alti",
-                        "price": "See range"
+                        "price": "$150"
                     },
                     {
                         "name": "Hestra Heli 3-Finger",
-                        "price": "See range"
+                        "price": "$180"
                     },
                     {
                         "name": "Flylow Oven Mitt",
-                        "price": "See range"
+                        "price": "$145"
                     },
                     {
                         "name": "Kinco 901T with modifications",
-                        "price": "See range"
+                        "price": "$130"
                     },
                     {
                         "name": "POW Gloves Tanto",
-                        "price": "See range"
+                        "price": "$160"
                     },
                     {
                         "name": "Mountain Hardwear Absolute Zero",
-                        "price": "See range"
+                        "price": "$250"
                     },
                     {
                         "name": "Outdoor Research Lucent Heated",
-                        "price": "See range"
+                        "price": "$230"
                     }
                 ]
             }
@@ -1914,43 +1914,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Under Armour ColdGear",
-                        "price": "See range"
+                        "price": "$50"
                     },
                     {
                         "name": "32 Degrees Heat",
-                        "price": "See range"
+                        "price": "$40"
                     },
                     {
                         "name": "REI Co-op Midweight",
-                        "price": "See range"
+                        "price": "$45"
                     },
                     {
                         "name": "Columbia Omni-Heat",
-                        "price": "See range"
+                        "price": "$60"
                     },
                     {
                         "name": "Uniqlo Heattech",
-                        "price": "See range"
+                        "price": "$40"
                     },
                     {
                         "name": "Champion Duofold",
-                        "price": "See range"
+                        "price": "$55"
                     },
                     {
                         "name": "Carhartt Base Force",
-                        "price": "See range"
+                        "price": "$65"
                     },
                     {
                         "name": "The North Face Warm",
-                        "price": "See range"
+                        "price": "$70"
                     },
                     {
                         "name": "Eddie Bauer Midweight",
-                        "price": "See range"
+                        "price": "$48"
                     },
                     {
                         "name": "Minus33 Merino",
-                        "price": "See range"
+                        "price": "$75"
                     }
                 ]
             },
@@ -1959,43 +1959,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Smartwool Merino 250",
-                        "price": "See range"
+                        "price": "$100"
                     },
                     {
                         "name": "Icebreaker 200",
-                        "price": "See range"
+                        "price": "$120"
                     },
                     {
                         "name": "Patagonia Capilene",
-                        "price": "See range"
+                        "price": "$89"
                     },
                     {
                         "name": "Arc'teryx Phase SL",
-                        "price": "See range"
+                        "price": "$130"
                     },
                     {
                         "name": "Outdoor Research Echo",
-                        "price": "See range"
+                        "price": "$110"
                     },
                     {
                         "name": "Ibex Woolies",
-                        "price": "See range"
+                        "price": "$125"
                     },
                     {
                         "name": "Helly Hansen Lifa",
-                        "price": "See range"
+                        "price": "$95"
                     },
                     {
                         "name": "Terramar Thermasilk",
-                        "price": "See range"
+                        "price": "$105"
                     },
                     {
                         "name": "Kari Traa Rose",
-                        "price": "See range"
+                        "price": "$115"
                     },
                     {
                         "name": "Odlo Performance",
-                        "price": "See range"
+                        "price": "$140"
                     }
                 ]
             },
@@ -2004,43 +2004,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Arc'teryx Rho LT",
-                        "price": "See range"
+                        "price": "$200"
                     },
                     {
                         "name": "Icebreaker 260 Tech",
-                        "price": "See range"
+                        "price": "$180"
                     },
                     {
                         "name": "Patagonia Capilene Air",
-                        "price": "See range"
+                        "price": "$169"
                     },
                     {
                         "name": "Smartwool Intraknit",
-                        "price": "See range"
+                        "price": "$150"
                     },
                     {
                         "name": "Minus33 Expedition",
-                        "price": "See range"
+                        "price": "$160"
                     },
                     {
                         "name": "Norrona Wool",
-                        "price": "See range"
+                        "price": "$220"
                     },
                     {
                         "name": "Rapha Merino",
-                        "price": "See range"
+                        "price": "$190"
                     },
                     {
                         "name": "X-Bionic Energizer",
-                        "price": "See range"
+                        "price": "$250"
                     },
                     {
                         "name": "Helly Hansen HH Lifa Merino",
-                        "price": "See range"
+                        "price": "$175"
                     },
                     {
                         "name": "Ortovox 185 Rock'n'Wool",
-                        "price": "See range"
+                        "price": "$210"
                     }
                 ]
             }
@@ -2060,43 +2060,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "LEKI Tour Stick Vario",
-                        "price": "See range"
+                        "price": "$35"
                     },
                     {
                         "name": "Black Diamond Trail Pro",
-                        "price": "See range"
+                        "price": "$40"
                     },
                     {
                         "name": "Rossignol Carbon Lite",
-                        "price": "See range"
+                        "price": "$50"
                     },
                     {
                         "name": "K2 Power 1",
-                        "price": "See range"
+                        "price": "$50"
                     },
                     {
                         "name": "Salomon Arctic",
-                        "price": "See range"
+                        "price": "$45"
                     },
                     {
                         "name": "Scott 540",
-                        "price": "See range"
+                        "price": "$42"
                     },
                     {
                         "name": "Atomic Cloud",
-                        "price": "See range"
+                        "price": "$38"
                     },
                     {
                         "name": "Head Multi S",
-                        "price": "See range"
+                        "price": "$55"
                     },
                     {
                         "name": "Volkl Phantastick",
-                        "price": "See range"
+                        "price": "$48"
                     },
                     {
                         "name": "Fischer Unlimited",
-                        "price": "See range"
+                        "price": "$52"
                     }
                 ]
             },
@@ -2105,43 +2105,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Leki Carbon 14 S",
-                        "price": "See range"
+                        "price": "$85"
                     },
                     {
                         "name": "Black Diamond Versa",
-                        "price": "See range"
+                        "price": "$75"
                     },
                     {
                         "name": "Scott Velocity Evo 3",
-                        "price": "See range"
+                        "price": "$90"
                     },
                     {
                         "name": "Rossignol Predator",
-                        "price": "See range"
+                        "price": "$100"
                     },
                     {
                         "name": "Komperdell C3 Carbon",
-                        "price": "See range"
+                        "price": "$100"
                     },
                     {
                         "name": "Atomic Cloud Bent",
-                        "price": "See range"
+                        "price": "$95"
                     },
                     {
                         "name": "K2 Freeride",
-                        "price": "See range"
+                        "price": "$80"
                     },
                     {
                         "name": "Salomon MTN Carbon",
-                        "price": "See range"
+                        "price": "$105"
                     },
                     {
                         "name": "Head Worldcup",
-                        "price": "See range"
+                        "price": "$110"
                     },
                     {
                         "name": "Fischer RC4",
-                        "price": "See range"
+                        "price": "$95"
                     }
                 ]
             },
@@ -2150,43 +2150,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Leki Spitfire Carbon",
-                        "price": "See range"
+                        "price": "$160"
                     },
                     {
                         "name": "Black Diamond Razor Carbon",
-                        "price": "See range"
+                        "price": "$180"
                     },
                     {
                         "name": "Scott Carbon Comp",
-                        "price": "See range"
+                        "price": "$140"
                     },
                     {
                         "name": "Komperdell Carbon XTR",
-                        "price": "See range"
+                        "price": "$170"
                     },
                     {
                         "name": "Salomon S-Lab",
-                        "price": "See range"
+                        "price": "$150"
                     },
                     {
                         "name": "Atomic Redster",
-                        "price": "See range"
+                        "price": "$175"
                     },
                     {
                         "name": "K2 Lockjaw Carbon",
-                        "price": "See range"
+                        "price": "$165"
                     },
                     {
                         "name": "Rossignol Hero Carbon",
-                        "price": "See range"
+                        "price": "$155"
                     },
                     {
                         "name": "Head WCR 14mm",
-                        "price": "See range"
+                        "price": "$180"
                     },
                     {
                         "name": "Fischer RC4 WC",
-                        "price": "See range"
+                        "price": "$170"
                     }
                 ]
             }
@@ -2207,43 +2207,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Buff Original",
-                        "price": "See range"
+                        "price": "$20"
                     },
                     {
                         "name": "Mission Snorkel Mask",
-                        "price": "See range"
+                        "price": "$15"
                     },
                     {
                         "name": "Seirus Neofleece",
-                        "price": "See range"
+                        "price": "$12"
                     },
                     {
                         "name": "Columbia Trail Shaker",
-                        "price": "See range"
+                        "price": "$18"
                     },
                     {
                         "name": "Outdoor Research Wind Pro",
-                        "price": "See range"
+                        "price": "$25"
                     },
                     {
                         "name": "The North Face Gaiter",
-                        "price": "See range"
+                        "price": "$22"
                     },
                     {
                         "name": "Turtle Fur",
-                        "price": "See range"
+                        "price": "$18"
                     },
                     {
                         "name": "Chaos CTR",
-                        "price": "See range"
+                        "price": "$16"
                     },
                     {
                         "name": "Gordini Combo Clava",
-                        "price": "See range"
+                        "price": "$20"
                     },
                     {
                         "name": "Under Armour ColdGear",
-                        "price": "See range"
+                        "price": "$24"
                     }
                 ]
             },
@@ -2252,43 +2252,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "BlackStrap The Tube",
-                        "price": "See range"
+                        "price": "$30"
                     },
                     {
                         "name": "Smartwool Merino 150",
-                        "price": "See range"
+                        "price": "$40"
                     },
                     {
                         "name": "Rab Bandana",
-                        "price": "See range"
+                        "price": "$45"
                     },
                     {
                         "name": "Icebreaker Cool-Lite",
-                        "price": "See range"
+                        "price": "$48"
                     },
                     {
                         "name": "Buff Polar",
-                        "price": "See range"
+                        "price": "$35"
                     },
                     {
                         "name": "Outdoor Research Vigor",
-                        "price": "See range"
+                        "price": "$42"
                     },
                     {
                         "name": "Arc'teryx Rho AR",
-                        "price": "See range"
+                        "price": "$50"
                     },
                     {
                         "name": "Helly Hansen HH Lifa",
-                        "price": "See range"
+                        "price": "$38"
                     },
                     {
                         "name": "Patagonia Lightweight",
-                        "price": "See range"
+                        "price": "$32"
                     },
                     {
                         "name": "Mountain Hardwear",
-                        "price": "See range"
+                        "price": "$45"
                     }
                 ]
             },
@@ -2297,43 +2297,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Arc'teryx Rho LT",
-                        "price": "See range"
+                        "price": "$65"
                     },
                     {
                         "name": "Smartwool NTS Mid 250",
-                        "price": "See range"
+                        "price": "$60"
                     },
                     {
                         "name": "Houdini Light Buff",
-                        "price": "See range"
+                        "price": "$70"
                     },
                     {
                         "name": "Under Armour ColdGear Infrared",
-                        "price": "See range"
+                        "price": "$55"
                     },
                     {
                         "name": "The North Face Apex Flex",
-                        "price": "See range"
+                        "price": "$80"
                     },
                     {
                         "name": "Icebreaker 260 Tech",
-                        "price": "See range"
+                        "price": "$75"
                     },
                     {
                         "name": "Norrona /29",
-                        "price": "See range"
+                        "price": "$68"
                     },
                     {
                         "name": "Outdoor Research Alpine Onset",
-                        "price": "See range"
+                        "price": "$72"
                     },
                     {
                         "name": "Patagonia R1",
-                        "price": "See range"
+                        "price": "$79"
                     },
                     {
                         "name": "Mountain Hardwear Power Stretch",
-                        "price": "See range"
+                        "price": "$58"
                     }
                 ]
             }
@@ -2354,43 +2354,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Dakine Session 12L",
-                        "price": "See range"
+                        "price": "$50"
                     },
                     {
                         "name": "Burton Day Hiker 20L",
-                        "price": "See range"
+                        "price": "$55"
                     },
                     {
                         "name": "Osprey Raptor 14",
-                        "price": "See range"
+                        "price": "$75"
                     },
                     {
                         "name": "Thule Upslope 20L",
-                        "price": "See range"
+                        "price": "$60"
                     },
                     {
                         "name": "Gregory Juno 16L",
-                        "price": "See range"
+                        "price": "$75"
                     },
                     {
                         "name": "The North Face Banchee 35",
-                        "price": "See range"
+                        "price": "$70"
                     },
                     {
                         "name": "Deuter Freerider Lite",
-                        "price": "See range"
+                        "price": "$80"
                     },
                     {
                         "name": "CamelBak Powderhound 12",
-                        "price": "See range"
+                        "price": "$65"
                     },
                     {
                         "name": "Patagonia Snowdrifter 20L",
-                        "price": "See range"
+                        "price": "$79"
                     },
                     {
                         "name": "Black Diamond Dawn Patrol 15",
-                        "price": "See range"
+                        "price": "$75"
                     }
                 ]
             },
@@ -2399,43 +2399,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Dakine Heli Pro 20L",
-                        "price": "See range"
+                        "price": "$130"
                     },
                     {
                         "name": "Burton Kilo 25L",
-                        "price": "See range"
+                        "price": "$150"
                     },
                     {
                         "name": "Osprey Kamber 22L",
-                        "price": "See range"
+                        "price": "$140"
                     },
                     {
                         "name": "The North Face Borealis",
-                        "price": "See range"
+                        "price": "$130"
                     },
                     {
                         "name": "Deuter Freerider Pro 22L",
-                        "price": "See range"
+                        "price": "$150"
                     },
                     {
                         "name": "Gregory Targhee 32",
-                        "price": "See range"
+                        "price": "$145"
                     },
                     {
                         "name": "Arc'teryx Aerios 15",
-                        "price": "See range"
+                        "price": "$135"
                     },
                     {
                         "name": "Patagonia Descensionist 32L",
-                        "price": "See range"
+                        "price": "$149"
                     },
                     {
                         "name": "Black Diamond JetForce Pro 25L",
-                        "price": "See range"
+                        "price": "$150"
                     },
                     {
                         "name": "Mammut Ride 30L",
-                        "price": "See range"
+                        "price": "$140"
                     }
                 ]
             },
@@ -2444,43 +2444,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Mammut Pro X 28L",
-                        "price": "See range"
+                        "price": "$280"
                     },
                     {
                         "name": "Arc'teryx Brize 30L",
-                        "price": "See range"
+                        "price": "$200"
                     },
                     {
                         "name": "Black Diamond Dawn Patrol 26L",
-                        "price": "See range"
+                        "price": "$190"
                     },
                     {
                         "name": "Patagonia Powder Bowl 32L",
-                        "price": "See range"
+                        "price": "$220"
                     },
                     {
                         "name": "Mystery Ranch Crestone 25L",
-                        "price": "See range"
+                        "price": "$250"
                     },
                     {
                         "name": "Osprey Soelden Pro 32",
-                        "price": "See range"
+                        "price": "$280"
                     },
                     {
                         "name": "The North Face Patrol 32L",
-                        "price": "See range"
+                        "price": "$300"
                     },
                     {
                         "name": "BCA Float 32",
-                        "price": "See range"
+                        "price": "$275"
                     },
                     {
                         "name": "Ortovox Ascent 30 Avabag",
-                        "price": "See range"
+                        "price": "$300"
                     },
                     {
                         "name": "Scott Backcountry AP 30",
-                        "price": "See range"
+                        "price": "$260"
                     }
                 ]
             }
@@ -2500,43 +2500,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Burton Impact Wrist Guard",
-                        "price": "See range"
+                        "price": "$30"
                     },
                     {
                         "name": "Pro-Tec Classic Wrist Guard",
-                        "price": "See range"
+                        "price": "$40"
                     },
                     {
                         "name": "187 Killer Pads Wrist Guard",
-                        "price": "See range"
+                        "price": "$45"
                     },
                     {
                         "name": "Demon Flex Meter Wrist Guard",
-                        "price": "See range"
+                        "price": "$35"
                     },
                     {
                         "name": "Triple Eight Wristsaver",
-                        "price": "See range"
+                        "price": "$50"
                     },
                     {
                         "name": "TSG All Terrain",
-                        "price": "See range"
+                        "price": "$38"
                     },
                     {
                         "name": "G-Form Pro-X",
-                        "price": "See range"
+                        "price": "$42"
                     },
                     {
                         "name": "POW Gloves Tanto Guard",
-                        "price": "See range"
+                        "price": "$48"
                     },
                     {
                         "name": "Level Glove with Wrist Guard",
-                        "price": "See range"
+                        "price": "$50"
                     },
                     {
                         "name": "Hillbilly Wrist Guards",
-                        "price": "See range"
+                        "price": "$45"
                     }
                 ]
             },
@@ -2545,43 +2545,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Burton Ballistic Wrist Guard",
-                        "price": "See range"
+                        "price": "$75"
                     },
                     {
                         "name": "Demon Hyper X Wrist Guard",
-                        "price": "See range"
+                        "price": "$85"
                     },
                     {
                         "name": "187 Killer Pads Pro Wrist Guard",
-                        "price": "See range"
+                        "price": "$80"
                     },
                     {
                         "name": "Pro-Tec Street Solid Wrist Guard",
-                        "price": "See range"
+                        "price": "$70"
                     },
                     {
                         "name": "Black Diamond Wrist Guard",
-                        "price": "See range"
+                        "price": "$90"
                     },
                     {
                         "name": "Level Worldcup CF",
-                        "price": "See range"
+                        "price": "$80"
                     },
                     {
                         "name": "Flexmeter Double Sided",
-                        "price": "See range"
+                        "price": "$65"
                     },
                     {
                         "name": "Dakine Wrist Guard",
-                        "price": "See range"
+                        "price": "$75"
                     },
                     {
                         "name": "POW Royal Wrist Guard",
-                        "price": "See range"
+                        "price": "$85"
                     },
                     {
                         "name": "Snowboard Addiction Impact",
-                        "price": "See range"
+                        "price": "$72"
                     }
                 ]
             },
@@ -2590,43 +2590,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Burton Impact Wrist Guard with Hard Shell",
-                        "price": "See range"
+                        "price": "$120"
                     },
                     {
                         "name": "187 Killer Pads Double Barrel",
-                        "price": "See range"
+                        "price": "$130"
                     },
                     {
                         "name": "Triple Eight ExoSkin Wrist Guard",
-                        "price": "See range"
+                        "price": "$140"
                     },
                     {
                         "name": "Pow Gloves Wrist Guard",
-                        "price": "See range"
+                        "price": "$110"
                     },
                     {
                         "name": "Ride Guard Wrist Guard",
-                        "price": "See range"
+                        "price": "$150"
                     },
                     {
                         "name": "Level Super Radiator",
-                        "price": "See range"
+                        "price": "$145"
                     },
                     {
                         "name": "Demon Flex Meter Pro",
-                        "price": "See range"
+                        "price": "$125"
                     },
                     {
                         "name": "G-Form Pro-X2",
-                        "price": "See range"
+                        "price": "$135"
                     },
                     {
                         "name": "TSG Professional",
-                        "price": "See range"
+                        "price": "$140"
                     },
                     {
                         "name": "Burton AK Guide",
-                        "price": "See range"
+                        "price": "$148"
                     }
                 ]
             }
@@ -2646,43 +2646,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Burton Total Impact Shorts",
-                        "price": "See range"
+                        "price": "$48"
                     },
                     {
                         "name": "Dakine Impact Shorts",
-                        "price": "See range"
+                        "price": "$40"
                     },
                     {
                         "name": "Triple Eight Slide Shorts",
-                        "price": "See range"
+                        "price": "$45"
                     },
                     {
                         "name": "Demon Hyper Pro Shorts",
-                        "price": "See range"
+                        "price": "$50"
                     },
                     {
                         "name": "Pro-Tec Zoombang Shorts",
-                        "price": "See range"
+                        "price": "$60"
                     },
                     {
                         "name": "187 Killer Pads Derby Shorts",
-                        "price": "See range"
+                        "price": "$55"
                     },
                     {
                         "name": "TSG Crash Pant",
-                        "price": "See range"
+                        "price": "$52"
                     },
                     {
                         "name": "G-Form Pro-X Shorts",
-                        "price": "See range"
+                        "price": "$58"
                     },
                     {
                         "name": "POW Royal Shorts",
-                        "price": "See range"
+                        "price": "$48"
                     },
                     {
                         "name": "Hillbilly Protective Shorts",
-                        "price": "See range"
+                        "price": "$54"
                     }
                 ]
             },
@@ -2691,43 +2691,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Sweet Protection Bastl Impact Shorts",
-                        "price": "See range"
+                        "price": "$80"
                     },
                     {
                         "name": "Dainese Impact Shorts",
-                        "price": "See range"
+                        "price": "$95"
                     },
                     {
                         "name": "Evoc Crash Pants",
-                        "price": "See range"
+                        "price": "$90"
                     },
                     {
                         "name": "Burton AK Power Shorts",
-                        "price": "See range"
+                        "price": "$75"
                     },
                     {
                         "name": "TSG Body Armor Shorts",
-                        "price": "See range"
+                        "price": "$100"
                     },
                     {
                         "name": "Level Protection Shorts",
-                        "price": "See range"
+                        "price": "$85"
                     },
                     {
                         "name": "Azzpadz Bomber",
-                        "price": "See range"
+                        "price": "$78"
                     },
                     {
                         "name": "Demon Shield Shorts",
-                        "price": "See range"
+                        "price": "$88"
                     },
                     {
                         "name": "Triple Eight Bumsaver",
-                        "price": "See range"
+                        "price": "$72"
                     },
                     {
                         "name": "POW Royal Protection",
-                        "price": "See range"
+                        "price": "$95"
                     }
                 ]
             },
@@ -2736,43 +2736,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "G-Form Pro-X Impact Shorts",
-                        "price": "See range"
+                        "price": "$150"
                     },
                     {
                         "name": "Demon Defense Impact Shorts",
-                        "price": "See range"
+                        "price": "$130"
                     },
                     {
                         "name": "POC VPD Air Shorts",
-                        "price": "See range"
+                        "price": "$175"
                     },
                     {
                         "name": "Sweet Protection Blaster Shorts",
-                        "price": "See range"
+                        "price": "$160"
                     },
                     {
                         "name": "661 Youth Impact Shorts",
-                        "price": "See range"
+                        "price": "$120"
                     },
                     {
                         "name": "Dainese Action Short Evo",
-                        "price": "See range"
+                        "price": "$180"
                     },
                     {
                         "name": "TSG Backbone Shorts",
-                        "price": "See range"
+                        "price": "$145"
                     },
                     {
                         "name": "Level Six Pro",
-                        "price": "See range"
+                        "price": "$135"
                     },
                     {
                         "name": "Burton AK Endurance",
-                        "price": "See range"
+                        "price": "$170"
                     },
                     {
                         "name": "Leatt Impact Shorts 3DF",
-                        "price": "See range"
+                        "price": "$155"
                     }
                 ]
             }
@@ -2793,43 +2793,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "BCA Tracker 3",
-                        "price": "See range"
+                        "price": "$350"
                     },
                     {
                         "name": "Mammut Barryvox Training",
-                        "price": "See range"
+                        "price": "$280"
                     },
                     {
                         "name": "Ortovox Zoom+",
-                        "price": "See range"
+                        "price": "$290"
                     },
                     {
                         "name": "Pieps DSP Sport",
-                        "price": "See range"
+                        "price": "$350"
                     },
                     {
                         "name": "Black Diamond Recon",
-                        "price": "See range"
+                        "price": "$300"
                     },
                     {
                         "name": "Arva Evo5",
-                        "price": "See range"
+                        "price": "$325"
                     },
                     {
                         "name": "Ortovox 3+",
-                        "price": "See range"
+                        "price": "$380"
                     },
                     {
                         "name": "BCA Tracker4",
-                        "price": "See range"
+                        "price": "$400"
                     },
                     {
                         "name": "Mammut Element",
-                        "price": "See range"
+                        "price": "$270"
                     },
                     {
                         "name": "Pieps Powder BT",
-                        "price": "See range"
+                        "price": "$360"
                     }
                 ]
             },
@@ -2838,43 +2838,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Mammut Barryvox S",
-                        "price": "See range"
+                        "price": "$450"
                     },
                     {
                         "name": "Pieps DSP Pro",
-                        "price": "See range"
+                        "price": "$500"
                     },
                     {
                         "name": "Ortovox S1+",
-                        "price": "See range"
+                        "price": "$580"
                     },
                     {
                         "name": "BCA Tracker S",
-                        "price": "See range"
+                        "price": "$600"
                     },
                     {
                         "name": "Arva Neo+",
-                        "price": "See range"
+                        "price": "$560"
                     },
                     {
                         "name": "Black Diamond Guide BT",
-                        "price": "See range"
+                        "price": "$480"
                     },
                     {
                         "name": "Mammut Barryvox",
-                        "price": "See range"
+                        "price": "$520"
                     },
                     {
                         "name": "Pieps Pro IPS",
-                        "price": "See range"
+                        "price": "$550"
                     },
                     {
                         "name": "Ortovox Diract",
-                        "price": "See range"
+                        "price": "$500"
                     },
                     {
                         "name": "Arva Evo4",
-                        "price": "See range"
+                        "price": "$420"
                     }
                 ]
             },
@@ -2883,43 +2883,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Mammut Barryvox\u2122 S Avalanche Transceiver",
-                        "price": "See range"
+                        "price": "$700"
                     },
                     {
                         "name": "Pieps Pro BT Safety System",
-                        "price": "See range"
+                        "price": "$850"
                     },
                     {
                         "name": "Backcountry Access D3 Avalanche Beacon",
-                        "price": "See range"
+                        "price": "$780"
                     },
                     {
                         "name": "Ortovox Zoom+ BT",
-                        "price": "See range"
+                        "price": "$750"
                     },
                     {
                         "name": "Arva 3+",
-                        "price": "See range"
+                        "price": "$900"
                     },
                     {
                         "name": "Black Diamond Recon X",
-                        "price": "See range"
+                        "price": "$820"
                     },
                     {
                         "name": "Mammut Pulse Barryvox",
-                        "price": "See range"
+                        "price": "$650"
                     },
                     {
                         "name": "Pieps Vector",
-                        "price": "See range"
+                        "price": "$880"
                     },
                     {
                         "name": "Ortovox Diract Voice",
-                        "price": "See range"
+                        "price": "$725"
                     },
                     {
                         "name": "BCA Tracker S Complete Package",
-                        "price": "See range"
+                        "price": "$850"
                     }
                 ]
             }
@@ -2940,43 +2940,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Patagonia R1 Fleece",
-                        "price": "See range"
+                        "price": "$80"
                     },
                     {
                         "name": "Columbia Fast Trek",
-                        "price": "See range"
+                        "price": "$60"
                     },
                     {
                         "name": "The North Face Glacier Fleece Hoodie",
-                        "price": "See range"
+                        "price": "$70"
                     },
                     {
                         "name": "Arc'teryx Delta LT",
-                        "price": "See range"
+                        "price": "$75"
                     },
                     {
                         "name": "REI Co-op Fleece Half-Zip",
-                        "price": "See range"
+                        "price": "$55"
                     },
                     {
                         "name": "Mountain Hardwear Microchill",
-                        "price": "See range"
+                        "price": "$65"
                     },
                     {
                         "name": "Marmot Rocklin",
-                        "price": "See range"
+                        "price": "$70"
                     },
                     {
                         "name": "Outdoor Research Vigor",
-                        "price": "See range"
+                        "price": "$80"
                     },
                     {
                         "name": "Helly Hansen Daybreaker",
-                        "price": "See range"
+                        "price": "$60"
                     },
                     {
                         "name": "Eddie Bauer Cloud Layer",
-                        "price": "See range"
+                        "price": "$50"
                     }
                 ]
             },
@@ -2985,43 +2985,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Patagonia R1 TechFace Hoody",
-                        "price": "See range"
+                        "price": "$130"
                     },
                     {
                         "name": "Arc'teryx Atom LT",
-                        "price": "See range"
+                        "price": "$140"
                     },
                     {
                         "name": "Outdoor Research Ferrosi Hood",
-                        "price": "See range"
+                        "price": "$130"
                     },
                     {
                         "name": "Black Diamond Coefficient",
-                        "price": "See range"
+                        "price": "$120"
                     },
                     {
                         "name": "Mountain Hardwear Monkey Fleece",
-                        "price": "See range"
+                        "price": "$130"
                     },
                     {
                         "name": "Rab Alpha Flash",
-                        "price": "See range"
+                        "price": "$145"
                     },
                     {
                         "name": "Mammut Aconcagua",
-                        "price": "See range"
+                        "price": "$125"
                     },
                     {
                         "name": "The North Face Ventrix",
-                        "price": "See range"
+                        "price": "$150"
                     },
                     {
                         "name": "Houdini Power Houdi",
-                        "price": "See range"
+                        "price": "$135"
                     },
                     {
                         "name": "Norrona Falketind",
-                        "price": "See range"
+                        "price": "$140"
                     }
                 ]
             },
@@ -3030,43 +3030,43 @@ export const gearCategoriesJapan = [
                 "items": [
                     {
                         "name": "Arc'teryx Atom AR",
-                        "price": "See range"
+                        "price": "$275"
                     },
                     {
                         "name": "Patagonia Down Sweater",
-                        "price": "See range"
+                        "price": "$229"
                     },
                     {
                         "name": "Mountain Hardwear Cloud Bank",
-                        "price": "See range"
+                        "price": "$280"
                     },
                     {
                         "name": "Rab Xenon X",
-                        "price": "See range"
+                        "price": "$230"
                     },
                     {
                         "name": "Canada Goose Hybridge",
-                        "price": "See range"
+                        "price": "$299"
                     },
                     {
                         "name": "The North Face Summit",
-                        "price": "See range"
+                        "price": "$250"
                     },
                     {
                         "name": "Arc'teryx Nuclei FL",
-                        "price": "See range"
+                        "price": "$350"
                     },
                     {
                         "name": "Patagonia Nano Puff",
-                        "price": "See range"
+                        "price": "$199"
                     },
                     {
                         "name": "Outdoor Research Ascendant",
-                        "price": "See range"
+                        "price": "$250"
                     },
                     {
                         "name": "Norrona Lyngen Alpha",
-                        "price": "See range"
+                        "price": "$280"
                     }
                 ]
             }

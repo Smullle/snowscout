@@ -248,34 +248,33 @@ def parse_table_format(content, category_data):
         if not start_parsing: continue
         if not line.strip().startswith('|'): continue
         
-        cols = [c.strip() for c in line.split('|') if c.strip() or c == '']
-        # Filter out empty strings from split at ends
-        cols = [c.strip() for c in line.split('|')[1:-1]]
+        # Split by | and remove empty strings at ends
+        cols = [c.strip() for c in line.split('|')]
+        # Remove the first and last empty elements if they exist (due to leading/trailing |)
+        if len(cols) > 0 and cols[0] == '': cols.pop(0)
+        if len(cols) > 0 and cols[-1] == '': cols.pop()
         
         for idx, col in enumerate(cols):
             if not col: continue
             if idx >= len(range_keys): break
             
-            # Japan guide format: "Item Name" (Price is usually not in the cell, or implied)
-            # But wait, the Japan guide cells are just names? 
-            # Let's check the file content again.
-            # | Giro Ledge MIPS | ...
-            # It seems the Japan guide cells are just names. 
-            # Wait, looking at the file content...
-            # | Giro Ledge MIPS            | Giro Ratio MIPS             | Smith Vantage MIPS           |
-            # It doesn't have prices in the cells?
-            # Ah, the global guide has "1. Item - $Price".
-            # The Japan guide seems to lack prices in the cells in the table view I saw?
-            # Let me re-read the Japan guide content carefully.
-            # "7: | Budget ($60-$100)           | Mid-Range ($100-$180)       | High-End ($180-$450+)         |"
-            # "9: | Giro Ledge MIPS            | Giro Ratio MIPS             | Smith Vantage MIPS           |"
-            # Yes, it seems the Japan guide just lists names in the table.
-            # I should probably check if there are prices. 
-            # If not, I'll just use the name.
+            # Japan guide format: "Item Name - $Price"
+            # Example: "Giro Ledge MIPS - $73"
             
             item_name = col
-            item_price = "See range" # Default if not found
+            item_price = "See range" # Default
             
+            # Try to extract price
+            # Look for " - $" or just " - " followed by price-like string
+            price_match = re.search(r'^(.*?)\s+-\s+(\$?[\d,]+(?:\.\d+)?(?:-\$?[\d,]+(?:\.\d+)?)?.*)$', col)
+            if price_match:
+                item_name = price_match.group(1).strip()
+                item_price = price_match.group(2).strip()
+            else:
+                 # Fallback: try to find just a price at the end if separator is missing or different
+                 # But the example shows " - $", so let's stick to that or similar
+                 pass
+
             ranges[range_keys[idx]]["items"].append({
                 "name": item_name,
                 "price": item_price
