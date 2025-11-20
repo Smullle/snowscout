@@ -16,11 +16,11 @@ function App() {
 
   return (
     <div className="container">
-      <header style={{ marginBottom: '3rem', textAlign: 'center' }}>
-        <h1 className="text-gradient" style={{ fontSize: '3rem', marginBottom: '0.5rem' }}>
+      <header className="mb-12 text-center">
+        <h1 className="text-gradient text-5xl mb-2">
           SnowScout
         </h1>
-        <p style={{ color: '#94a3b8', fontSize: '1.2rem' }}>
+        <p className="text-slate-400 text-xl">
           Find the best gear for your next adventure.
         </p>
       </header>
@@ -32,7 +32,7 @@ function App() {
         </div>
       </main>
 
-      <footer style={{ marginTop: '4rem', textAlign: 'center', color: '#64748b', paddingBottom: '2rem' }}>
+      <footer className="mt-16 text-center text-slate-500 pb-8">
         <p>&copy; 2025 SnowScout. Powered by Mercari.</p>
       </footer>
     </div >

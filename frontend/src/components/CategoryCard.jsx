@@ -15,21 +15,10 @@ const CategoryCard = ({ category, priceFilter, onItemSearch }) => {
 
         return (
             <div key={rangeName} style={{ marginBottom: '1.5rem' }}>
-                <h4 style={{
-                    fontSize: '1rem',
-                    marginBottom: '0.75rem',
-                    color: 'var(--primary-color)',
-                    borderBottom: '1px solid rgba(255,255,255,0.1)',
-                    paddingBottom: '0.5rem'
-                }}>
+                <h4 className="text-base mb-3 text-sky-400 border-b border-white/10 pb-2" style={{ color: 'var(--primary-color)', borderBottom: '1px solid rgba(255,255,255,0.1)' }}>
                     {rangeName} {rangeData.range}
                 </h4>
-                <ul style={{
-                    listStyle: 'none',
-                    padding: 0,
-                    display: 'grid',
-                    gap: '0.5rem'
-                }}>
+                <ul className="list-none p-0 grid gap-2">
                     {rangeData.items.map((item, idx) => {
                         const handleItemClick = () => {
                             const searchQuery = encodeURIComponent(item.name);
@@ -37,17 +26,8 @@ const CategoryCard = ({ category, priceFilter, onItemSearch }) => {
                         };
 
                         return (
-                            <li key={idx} style={{
-                                background: 'rgba(255,255,255,0.03)',
-                                padding: '0.5rem 0.75rem',
-                                borderRadius: '0.375rem',
-                                display: 'flex',
-                                justifyContent: 'space-between',
-                                alignItems: 'center',
-                                fontSize: '0.9rem',
-                                transition: 'background 0.2s, transform 0.1s',
-                                cursor: 'pointer'
-                            }}
+                            <li key={idx} className="bg-white/5 p-2 rounded-md flex justify-between items-center text-sm transition-all cursor-pointer hover:bg-white/10 hover:translate-x-1"
+                                style={{ background: 'rgba(255,255,255,0.03)' }}
                                 onMouseEnter={(e) => {
                                     e.currentTarget.style.background = 'rgba(255,255,255,0.08)';
                                     e.currentTarget.style.transform = 'translateX(4px)';
@@ -111,41 +91,32 @@ const CategoryCard = ({ category, priceFilter, onItemSearch }) => {
     };
 
     return (
-        <div className="card" style={{ cursor: 'pointer' }} onClick={() => setExpanded(!expanded)}>
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'start', marginBottom: '0.75rem' }}>
-                <h3 style={{ fontSize: '1.25rem', margin: 0 }}>{category.name}</h3>
-                <span style={{
-                    fontSize: '1.5rem',
-                    transition: 'transform 0.3s',
+        <div className="card cursor-pointer" onClick={() => setExpanded(!expanded)}>
+            <div className="flex justify-between items-start mb-3">
+                <h3 className="text-xl m-0">{category.name}</h3>
+                <span className="text-2xl transition-transform duration-300" style={{
                     transform: expanded ? 'rotate(180deg)' : 'rotate(0deg)'
                 }}>
                     ▼
                 </span>
             </div>
 
-            <div style={{ display: 'flex', gap: '0.5rem', marginBottom: '0.5rem', flexWrap: 'wrap' }}>
+            <div className="flex gap-2 mb-2 flex-wrap">
                 {category.sportCompatibility.map(sport => (
-                    <span key={sport} style={{
-                        background: getSportBadgeColor(sport),
-                        color: 'white',
-                        padding: '0.25rem 0.75rem',
-                        borderRadius: '1rem',
-                        fontSize: '0.75rem',
-                        fontWeight: '600'
+                    <span key={sport} className="text-white px-3 py-1 rounded-2xl text-xs font-bold" style={{
+                        background: getSportBadgeColor(sport)
                     }}>
                         {sport}
                     </span>
                 ))}
             </div>
 
-            <p style={{ fontSize: '0.85rem', color: '#cbd5e1', margin: 0 }}>
+            <p className="text-sm text-slate-300 m-0">
                 {category.essentialFor}
             </p>
 
             {expanded && (
-                <div style={{
-                    marginTop: '1.5rem',
-                    paddingTop: '1.5rem',
+                <div className="mt-6 pt-6 border-t border-white/10" style={{
                     borderTop: '1px solid rgba(255,255,255,0.1)'
                 }} onClick={(e) => e.stopPropagation()}>
                     {renderPriceRange('Budget', category.priceRanges.budget)}

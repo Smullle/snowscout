@@ -39,21 +39,22 @@ const GearSearch = ({ initialQuery = '' }) => {
     };
 
     return (
-        <div style={{ marginTop: '2rem' }}>
-            <h2 className="text-gradient" style={{ marginBottom: '1rem' }}>Search Used Gear</h2>
-            <form onSubmit={handleSearch} style={{ display: 'flex', gap: '1rem', marginBottom: '2rem' }}>
+        <div className="mt-8">
+            <h2 className="text-gradient text-3xl mb-4">Search Used Gear</h2>
+            <form onSubmit={handleSearch} className="flex flex-col sm:flex-row gap-4 mb-8">
                 <input
                     type="text"
                     value={query}
                     onChange={(e) => setQuery(e.target.value)}
                     placeholder="Search for snowboards, bindings, etc..."
+                    className="flex-1"
                 />
-                <button type="submit" className="btn" disabled={loading}>
+                <button type="submit" className="btn whitespace-nowrap" disabled={loading}>
                     {loading ? 'Searching...' : 'Search'}
                 </button>
             </form>
 
-            {error && <div style={{ color: 'var(--accent-color)', marginBottom: '1rem' }}>{error}</div>}
+            {error && <div className="text-pink-500 mb-4">{error}</div>}
 
             <div className="grid">
                 {results.map((item) => (

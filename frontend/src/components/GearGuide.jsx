@@ -15,13 +15,13 @@ const GearGuide = ({ onItemSearch }) => {
         : currentCategories.filter(cat => cat.sportCompatibility.includes(activity));
 
     return (
-        <div style={{ marginBottom: '2rem' }}>
-            <div className="card" style={{ marginBottom: '2rem' }}>
-                <h2 style={{ marginBottom: '1.5rem' }}>Gear Guide</h2>
+        <div className="mb-8">
+            <div className="card mb-8">
+                <h2 className="mb-6 text-2xl">Gear Guide</h2>
 
-                <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '1rem' }}>
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                     <div>
-                        <label style={{ display: 'block', marginBottom: '0.5rem', fontSize: '0.9rem' }}>
+                        <label className="block mb-2 text-sm">
                             Source
                         </label>
                         <select value={source} onChange={(e) => setSource(e.target.value)}>
@@ -31,7 +31,7 @@ const GearGuide = ({ onItemSearch }) => {
                     </div>
 
                     <div>
-                        <label style={{ display: 'block', marginBottom: '0.5rem', fontSize: '0.9rem' }}>
+                        <label className="block mb-2 text-sm">
                             Activity
                         </label>
                         <select value={activity} onChange={(e) => setActivity(e.target.value)}>
@@ -42,7 +42,7 @@ const GearGuide = ({ onItemSearch }) => {
                     </div>
 
                     <div>
-                        <label style={{ display: 'block', marginBottom: '0.5rem', fontSize: '0.9rem' }}>
+                        <label className="block mb-2 text-sm">
                             Price Range
                         </label>
                         <select value={priceRange} onChange={(e) => setPriceRange(e.target.value)}>
