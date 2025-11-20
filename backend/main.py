@@ -15,7 +15,7 @@ load_dotenv()
 app = FastAPI(title="Ski Gear Shopping API")
 
 # Configure CORS
-raw_origins = os.getenv("ALLOWED_ORIGINS", "http://localhost:5173,http://localhost:3000")
+raw_origins = os.getenv("ALLOWED_ORIGINS") or os.getenv("ALLOWS_ORIGINS") or "http://localhost:5173,http://localhost:3000"
 allowed_origins = [origin.strip() for origin in raw_origins.split(",")]
 print(f"Allowed Origins: {allowed_origins}")
 
