@@ -2,17 +2,17 @@ from mercapi import Mercapi
 from mercapi.models import SearchResults
 from models import SearchResult
 from typing import List
+import asyncio
 
 async def search_mercari(query: str) -> List[SearchResult]:
     m = Mercapi()
-    # Note: mercapi might be synchronous, if so we might need to run it in a threadpool or just use it directly if fast enough.
-    # For now assuming we can just call it.
     
-    # Basic search
-    results = await m.search(query) 
-    # Check if results is a list or an object with items
-    # Adjust based on actual library usage. 
-    # Based on docs, m.search returns a SearchResults object which is iterable or has items.
+    # mercapi.search() is synchronous, so we run it in a thread pool to avoid blocking
+    def sync_search():
+        return m.search(query)
+    
+    # Run the synchronous search in a thread pool
+    results = await asyncio.to_thread(sync_search)
     
     output = []
     for item in results.items:
